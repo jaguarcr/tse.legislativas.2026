@@ -1,0 +1,841 @@
+id,numero junta,provincia,canton,distrito,datos certificación,datos procesados tse
+1,Junta 8,SAN JOSE,CENTRAL,CARMEN,Certificación no disponible,99 Votos PPSO
+2,Junta 21,SAN JOSE,CENTRAL,MERCED,177 Votos PSSO,Resultados no Procesados
+3,Junta 32,SAN JOSE,CENTRAL,HOSPITAL,Certificación no disponible,152 Votos PPSO
+4,Junta 34,SAN JOSE,CENTRAL,HOSPITAL,0 Votos PPSO,Resultados no Procesados
+5,Junta 35,SAN JOSE,CENTRAL,HOSPITAL,153 Votos PPSO,Resultados no Procesados
+6,Junta 36,SAN JOSE,CENTRAL,HOSPITAL,151 Votos PPSO,Resultados no Procesados
+7,Junta 38,SAN JOSE,CENTRAL,HOSPITAL,153 Votos PPSO,Resultados no Procesados
+8,Junta 41,SAN JOSE,CENTRAL,HOSPITAL,164 Votos PPSO,Resultados no Procesados
+9,Junta 47,SAN JOSE,CENTRAL,HOSPITAL,160 Votos PPSO,Resultados no Procesados
+10,Junta 50,SAN JOSE,CENTRAL,HOSPITAL,175 Votos PPSO,Resultados no Procesados
+11,Junta 71,SAN JOSE,CENTRAL,CATEDRAL,161 Votos PPSO,Resultados no Procesados
+12,Junta 80,SAN JOSE,CENTRAL,CATEDRAL,149 Votos PPSO,Resultados no Procesados
+13,Junta 88,SAN JOSE,CENTRAL,ZAPOTE,150 Votos PPSO,Resultados no Procesados
+14,Junta 118,SAN JOSE,CENTRAL,SAN FRANCISCO DE DOS RIOS,151 Votos PPSO,Resultados no Procesados
+15,Junta 138,SAN JOSE,CENTRAL,SAN FRANCISCO DE DOS RIOS,173 Votos PPSO,Resultados no Procesados
+16,Junta 143,SAN JOSE,CENTRAL,SAN FRANCISCO DE DOS RIOS,167 Votos PPSO,Resultados no Procesados
+17,Junta 144,SAN JOSE,CENTRAL,SAN FRANCISCO DE DOS RIOS,Certificación no disponible,167 Votos PPSO
+18,Junta 154,SAN JOSE,CENTRAL,URUCA,110 Votos PPSO,0 Votos PPSO
+19,Junta 162,SAN JOSE,CENTRAL,URUCA,174 Votos PPSO,Resultados no Procesados
+20,Junta 165,SAN JOSE,CENTRAL,URUCA,159 Votos PPSO,Resultados no Procesados
+21,Junta 167,SAN JOSE,CENTRAL,URUCA,173 Votos PPSO,Resultados no Procesados
+22,Junta 168,SAN JOSE,CENTRAL,URUCA,Certificación no disponible,Resultados no Procesados
+23,Junta 169,SAN JOSE,CENTRAL,URUCA,147 Votos PPSO,Resultados no Procesados
+24,Junta 172,SAN JOSE,CENTRAL,URUCA,171 Votos PPSO,Resultados no Procesados
+25,Junta 175,SAN JOSE,CENTRAL,URUCA,Certificación no disponible,156 Votos PPSO
+26,Junta 184,SAN JOSE,CENTRAL,MATA REDONDA,107 Votos PPSO,105 Votos PPSO
+27,Junta 192,SAN JOSE,CENTRAL,MATA REDONDA,147 Votos PPSO,Resultados no Procesados
+28,Junta 199,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,131 Votos PPSO
+29,Junta 204,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,Resultados no Procesados
+30,Junta 205,SAN JOSE,CENTRAL,PAVAS,155 Votos PPSO,Resultados no Procesados
+31,Junta 206,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,125 Votos PPSO
+32,Junta 208,SAN JOSE,CENTRAL,PAVAS,144 Votos PPSO,Resultados no Procesados
+33,Junta 216,SAN JOSE,CENTRAL,PAVAS,114 Votos PPSO,Resultados no Procesados
+34,Junta 224,SAN JOSE,CENTRAL,PAVAS,191 Votos PPSO,Resultados no Procesados
+35,Junta 225,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,Resultados no Procesados
+36,Junta 237,SAN JOSE,CENTRAL,PAVAS,187 Votos PPSO,Resultados no Procesados
+37,Junta 241,SAN JOSE,CENTRAL,PAVAS,184 Votos PPSO,Resultados no Procesados
+38,Junta 242,SAN JOSE,CENTRAL,PAVAS,200 Votos PPSO,Resultados no Procesados
+39,Junta 243,SAN JOSE,CENTRAL,PAVAS,190 Votos PPSO,Resultados no Procesados
+40,Junta 245,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,200 Votos PPSO
+41,Junta 247,SAN JOSE,CENTRAL,PAVAS,Votos no Legibles,Resultados no Procesados
+42,Junta 250,SAN JOSE,CENTRAL,PAVAS,201 Votos PPSO,Resultados no Procesados
+43,Junta 254,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,146 Votos PPSO
+44,Junta 255,SAN JOSE,CENTRAL,PAVAS,Sin datos en la Certificación,156 Votos PPSO
+45,Junta 256,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,160 Votos PPSO
+46,Junta 258,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,151 Votos PPSO
+47,Junta 262,SAN JOSE,CENTRAL,PAVAS,132 Votos PPSO,11 Votos PPSO
+48,Junta 264,SAN JOSE,CENTRAL,PAVAS,157 Votos PPSO,Resultados no Procesados
+49,Junta 265,SAN JOSE,CENTRAL,PAVAS,Sin datos en la Certificación,224 Votos PPSO
+50,Junta 269,SAN JOSE,CENTRAL,PAVAS,Certificación no disponible,191 Votos PPSO
+51,Junta 284,SAN JOSE,CENTRAL,HATILLO,Votos no Legibles,167 Votos PPSO
+52,Junta 291,SAN JOSE,CENTRAL,HATILLO,181 Votos PPSO,Resultados no Procesados
+53,Junta 293,SAN JOSE,CENTRAL,HATILLO,169 Votos PPSO,Resultados no Procesados
+54,Junta 294,SAN JOSE,CENTRAL,HATILLO,173 Votos PPSO,Resultados no Procesados
+55,Junta 295,SAN JOSE,CENTRAL,HATILLO,163 Votos PPSO,Resultados no Procesados
+56,Junta 307,SAN JOSE,CENTRAL,HATILLO,Certificación no disponible,162 Votos PPSO
+57,Junta 309,SAN JOSE,CENTRAL,HATILLO,Votos no Legibles,194 Votos PPSO
+58,Junta 310,SAN JOSE,CENTRAL,HATILLO,Certificación no disponible,182 Votos PPSO
+59,Junta 311,SAN JOSE,CENTRAL,HATILLO,173 Votos PPSO,Resultados no Procesados
+60,Junta 312,SAN JOSE,CENTRAL,HATILLO,Votos no Legibles,Resultados no Procesados
+61,Junta 315,SAN JOSE,CENTRAL,HATILLO,160 Votos PPSO,Resultados no Procesados
+62,Junta 318,SAN JOSE,CENTRAL,HATILLO,166 Votos PPSO,Resultados no Procesados
+63,Junta 326,SAN JOSE,CENTRAL,HATILLO,185 Votos PPSO,Resultados no Procesados
+64,Junta 336,SAN JOSE,CENTRAL,HATILLO,Certificación no disponible,183 Votos PPSO
+65,Junta 337,SAN JOSE,CENTRAL,HATILLO,Votos no Legibles,186 Votos PPSO
+66,Junta 338,SAN JOSE,CENTRAL,HATILLO,Votos no Legibles,190 Votos PPSO
+67,Junta 339,SAN JOSE,CENTRAL,HATILLO,Certificación no disponible,169 Votos PPSO
+66,Junta 354,SAN JOSE,CENTRAL,HATILLO,Sin datos en la Certificación,200 Votos PPSO
+68,Junta 359,SAN JOSE,CENTRAL,SAN SEBASTIAN,Certificación no disponible,194 Votos PPSO
+69,Junta 363,SAN JOSE,CENTRAL,SAN SEBASTIAN,Certificación no disponible,194 Votos PPSO
+70,Junta 367,SAN JOSE,CENTRAL,SAN SEBASTIAN,Certificación no disponible,173 Votos PPSO
+71,Junta 386,SAN JOSE,CENTRAL,SAN SEBASTIAN,175 Votos PPSO,181 Votos PPSO
+72,Junta 400,SAN JOSE,CENTRAL,SAN SEBASTIAN,165 Votos PPSO,166 Votos PPSO
+73,Junta 404,SAN JOSE,CENTRAL,SAN SEBASTIAN,Votos no Legibles,Resultados no Procesados
+74,Junta 407,SAN JOSE,CENTRAL,SAN SEBASTIAN,167 Votos PPSO,Resultados no Procesados
+75,Junta 416,SAN JOSE,ESCAZU,ESCAZU,137 Votos PPSO,29 Votos PPSO
+76,Junta 421,SAN JOSE,ESCAZU,ESCAZU,164 Votos PPSO,64 Votos PPSO
+77,Junta 424,SAN JOSE,ESCAZU,ESCAZU,Certificación no disponible,139 Votos PPSO
+78,Junta 443,SAN JOSE,ESCAZU,SAN ANTONIO,Certificación no disponible,169 Votos PPSO
+79,Junta 474,SAN JOSE,ESCAZU,SAN RAFAEL,Certificación no disponible,114 Votos PPSO
+80,Junta 487,SAN JOSE,ESCAZU,SAN RAFAEL,Sin datos en la Certificación,Resultados no Procesados
+81,Junta 489,SAN JOSE,ESCAZU,SAN RAFAEL,Votos no Legibles,119 Votos PPSO
+82,Junta 504,SAN JOSE,DESAMPARADOS,DESAMPARADOS,Certificación no disponible,Resultados no Procesados
+83,Junta 509,SAN JOSE,DESAMPARADOS,DESAMPARADOS,Certificación no disponible,170 Votos PPSO
+84,Junta 521,SAN JOSE,DESAMPARADOS,DESAMPARADOS,Certificación no disponible,181 Votos PPSO
+85,Junta 539,SAN JOSE,DESAMPARADOS,DESAMPARADOS,193 Votos PPSO,Resultados no Procesados
+86,Junta 541,SAN JOSE,DESAMPARADOS,DESAMPARADOS,Certificación no disponible,161 Votos PPSO
+87,Junta 550,SAN JOSE,DESAMPARADOS,DESAMPARADOS,10 Votos PPSO,Resultados no Procesados
+88,Junta 556,SAN JOSE,DESAMPARADOS,SAN MIGUEL,205 Votos PPSO,186 Votos PPSO
+89,Junta 566,SAN JOSE,DESAMPARADOS,SAN MIGUEL,173 Votos PPSO,175 Votos PPSO
+90,Junta 596,SAN JOSE,DESAMPARADOS,SAN MIGUEL,224 Votos PPSO,Resultados no Procesados
+91,Junta 597,SAN JOSE,DESAMPARADOS,SAN MIGUEL,191 Votos PPSO,Resultados no Procesados
+92,Junta 598,SAN JOSE,DESAMPARADOS,SAN MIGUEL,200 Votos PPSO,Resultados no Procesados
+93,Junta 599,SAN JOSE,DESAMPARADOS,SAN MIGUEL,206 Votos PPSO,Resultados no Procesados
+94,Junta 600,SAN JOSE,DESAMPARADOS,SAN MIGUEL,201 Votos PPSO,Resultados no Procesados
+95,Junta 602,SAN JOSE,DESAMPARADOS,SAN MIGUEL,188 Votos PPSO,Resultados no Procesados
+96,Junta 604,SAN JOSE,DESAMPARADOS,SAN MIGUEL,208 Votos PPSO,Resultados no Procesados
+95,Junta 629,SAN JOSE,DESAMPARADOS,SAN RAFAEL ARRIBA,188 Votos PPSO,Resultados no Procesados
+96,Junta 630,SAN JOSE,DESAMPARADOS,SAN RAFAEL ARRIBA,186 Votos PPSO,5 Votos PPSO
+97,Junta 642,SAN JOSE,DESAMPARADOS,SAN RAFAEL ARRIBA,177 Votos PPSO,Resultados no Procesados
+98,Junta 651,SAN JOSE,DESAMPARADOS,SAN ANTONIO,Certificación no disponible,147 Votos PPSO
+99,Junta 662,SAN JOSE,DESAMPARADOS,SAN ANTONIO,Certificación no disponible,144 Votos PPSO
+100,Junta 663,SAN JOSE,DESAMPARADOS,SAN ANTONIO,Certificación no disponible,168 Votos PPSO
+101,Junta 664,SAN JOSE,DESAMPARADOS,SAN ANTONIO,Certificación no disponible,158 Votos PPSO
+102,Junta 665,SAN JOSE,DESAMPARADOS,SAN ANTONIO,Certificación no disponible,166 Votos PPSO
+103,Junta 670,SAN JOSE,DESAMPARADOS,FRAILES,123 Votos PPSO,Resultados no Procesados
+104,Junta 703,SAN JOSE,DESAMPARADOS,DAMAS,Certificación no disponible,182 Votos PPSO
+105,Junta 704,SAN JOSE,DESAMPARADOS,DAMAS,169 Votos PPSO,Resultados no Procesados
+106,Junta 705,SAN JOSE,DESAMPARADOS,DAMAS,180 Votos PPSO,Resultados no Procesados
+107,Junta 718,SAN JOSE,DESAMPARADOS,DAMAS,Certificación no disponible,182 Votos PPSO
+108,Junta 723,SAN JOSE,DESAMPARADOS,SAN RAFAEL ABAJO,199 Votos PPSO,Resultados no Procesados
+109,Junta 747,SAN JOSE,DESAMPARADOS,SAN RAFAEL ABAJO,171 Votos PPSO,Resultados no Procesados
+110,Junta 779,SAN JOSE,DESAMPARADOS,LOS GUIDO,Certificación no disponible,184 Votos PPSO
+111,Junta 780,SAN JOSE,DESAMPARADOS,LOS GUIDO,Certificación no disponible,Resultados no Procesados
+112,Junta 782,SAN JOSE,DESAMPARADOS,LOS GUIDO,Certificación no disponible,204 Votos PPSO
+113,Junta 785,SAN JOSE,DESAMPARADOS,LOS GUIDO,181 Votos PPSO,191 Votos PPSO
+114,Junta 792,SAN JOSE,DESAMPARADOS,LOS GUIDO,Certificación no disponible,206 Votos PPSO
+115,Junta 795,SAN JOSE,DESAMPARADOS,LOS GUIDO,179 Votos PPSO,79 Votos PPSO
+116,Junta 887,SAN JOSE,TARRAZU,SAN MARCOS,0 Votos PPSO,0 Votos PPSO
+117,Junta 893,SAN JOSE,TARRAZU,SAN LORENZO,Certificación no disponible,8 Votos PPSO
+118,Junta 904,SAN JOSE,ASERRI,ASERRI,Certificación no disponible,162 Votos PPSO
+119,Junta 906,SAN JOSE,ASERRI,ASERRI,192 Votos PPSO,175 Votos PPSO
+120,Junta 937,SAN JOSE,ASERRI,ASERRI,155 Votos PPSO,154 Votos PPSO
+121,Junta 972,SAN JOSE,ASERRI,LEGUA,41 Votos PPSO,0 Votos PPSO
+122,Junta 990,SAN JOSE,MORA,COLON,Certificación no disponible,0 Votos PPSO
+123,Junta 995,SAN JOSE,MORA,COLON,198 Votos PPSO,Resultados no Procesados
+124,Junta 1039,SAN JOSE,GOICOECHEA,GUADALUPE,139 Votos PPSO,Resultados no Procesados
+125,Junta 1049,SAN JOSE,GOICOECHEA,GUADALUPE,Votos no Legibles,139 Votos PPSO
+126,Junta 1052,SAN JOSE,GOICOECHEA,GUADALUPE,173 Votos PPSO,Resultados no Procesados
+127,Junta 1056,SAN JOSE,GOICOECHEA,GUADALUPE,142 Votos PPSO,Resultados no Procesados
+128,Junta 1058,SAN JOSE,GOICOECHEA,GUADALUPE,151 Votos PPSO,Resultados no Procesados
+129,Junta 1060,SAN JOSE,GOICOECHEA,GUADALUPE,151 Votos PPSO,Resultados no Procesados
+130,Junta 1061,SAN JOSE,GOICOECHEA,GUADALUPE,134 Votos PPSO,Resultados no Procesados
+131,Junta 1063,SAN JOSE,GOICOECHEA,GUADALUPE,134 Votos PPSO,Resultados no Procesados
+132,Junta 1065,SAN JOSE,GOICOECHEA,GUADALUPE,146 Votos PPSO,Resultados no Procesados
+133,Junta 1068,SAN JOSE,GOICOECHEA,GUADALUPE,147 Votos PPSO,Resultados no Procesados
+134,Junta 1069,SAN JOSE,GOICOECHEA,GUADALUPE,160 Votos PPSO,157 Votos PPSO
+135,Junta 1079,SAN JOSE,GOICOECHEA,CALLE BALNCOS,137 Votos PPSO,157 Votos PPSO
+136,Junta 1099,SAN JOSE,GOICOECHEA,MATA DE PLATANO,159 Votos PPSO,Resultados no Procesados
+137,Junta 1102,SAN JOSE,GOICOECHEA,MATA DE PLATANO,Certificación no disponible,Resultados no Procesados
+138,Junta 1105,SAN JOSE,GOICOECHEA,MATA DE PLATANO,148 Votos PPSO,Resultados no Procesados
+139,Junta 1106,SAN JOSE,GOICOECHEA,MATA DE PLATANO,162 Votos PPSO,Resultados no Procesados
+140,Junta 1107,SAN JOSE,GOICOECHEA,MATA DE PLATANO,Votos no Legibles,Resultados no Procesados
+141,Junta 1112,SAN JOSE,GOICOECHEA,MATA DE PLATANO,154 Votos PPSO,161 Votos PPSO
+142,Junta 1113,SAN JOSE,GOICOECHEA,MATA DE PLATANO,167 Votos PPSO,171 Votos PPSO
+143,Junta 1121,SAN JOSE,GOICOECHEA,IPIS,Certificación no disponible,156 Votos PPSO
+144,Junta 1123,SAN JOSE,GOICOECHEA,IPIS,Certificación no disponible,165 Votos PPSO
+145,Junta 1126,SAN JOSE,GOICOECHEA,IPIS,Certificación no disponible,151 Votos PPSO
+146,Junta 1130,SAN JOSE,GOICOECHEA,IPIS,Certificación no disponible,174 Votos PPSO
+147,Junta 1134,SAN JOSE,GOICOECHEA,IPIS,159 Votos PPSO,Resultados no Procesados
+148,Junta 1158,SAN JOSE,GOICOECHEA,IPIS,183 Votos PPSO,193 Votos PPSO
+149,Junta 1159,SAN JOSE,GOICOECHEA,IPIS,168 Votos PPSO,Resultados no Procesados
+150,Junta 1168,SAN JOSE,GOICOECHEA,PURRAL,165 Votos PPSO,Resultados no Procesados
+151,Junta 1169,SAN JOSE,GOICOECHEA,PURRAL,163 Votos PPSO,160 Votos PPSO
+152,Junta 1170,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,179 Votos PPSO
+153,Junta 1177,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,176 Votos PPSO
+154,Junta 1179,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,161 Votos PPSO
+155,Junta 1180,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,160 Votos PPSO
+156,Junta 1181,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,155 Votos PPSO
+157,Junta 1182,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,179 Votos PPSO
+158,Junta 1183,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,174 Votos PPSO
+159,Junta 1185,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,162 Votos PPSO
+160,Junta 1186,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,160 Votos PPSO
+161,Junta 1187,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,Resultados no Procesados
+162,Junta 1188,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,170 Votos PPSO
+163,Junta 1189,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,164 Votos PPSO
+164,Junta 1190,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,141 Votos PPSO
+165,Junta 1191,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,Resultados no Procesados
+166,Junta 1192,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,Resultados no Procesados
+167,Junta 1193,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,146 Votos PPSO
+168,Junta 1194,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,Resultados no Procesados
+169,Junta 1195,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,169 Votos PPSO
+170,Junta 1196,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,171 Votos PPSO
+171,Junta 1197,SAN JOSE,GOICOECHEA,PURRAL,Certificación no disponible,189 Votos PPSO
+172,Junta 1199,SAN JOSE,SANTA ANA,SANTA ANA,165 Votos PPSO,5 Votos PPSO
+173,Junta 1205,SAN JOSE,SANTA ANA,SANTA ANA,155 Votos PPSO,Resultados no Procesados
+174,Junta 1211,SAN JOSE,SANTA ANA,SANTA ANA,118 Votos PPSO,Resultados no Procesados
+175,Junta 1222,SAN JOSE,SANTA ANA,POZOS,Certificación no disponible,143 Votos PPSO
+176,Junta 1232,SAN JOSE,SANTA ANA,POZOS,Votos no Legibles,Resultados no Procesados
+177,Junta 1236,SAN JOSE,SANTA ANA,POZOS,Certificación no disponible,145 Votos PPSO
+178,Junta 1256,SAN JOSE,SANTA ANA,URUCA,Certificación no disponible,143 Votos PPSO 
+179,Junta 1259,SAN JOSE,SANTA ANA,PIEDADES,Certificación no disponible,171 Votos PPSO
+180,Junta 1261,SAN JOSE,SANTA ANA,PIEDADES,Certificación no disponible,161 Votos PPSO
+181,Junta 1271,SAN JOSE,SANTA ANA,BRASIL,Certificación no disponible,140 Votos PPSO
+182,Junta 1276,SAN JOSE,ALAJUELITA,ALAJUELITA,196 Votos PPSO,207 Votos PPSO
+183,Junta 1276,SAN JOSE,ALAJUELITA,ALAJUELITA,196 Votos PPSO,207 Votos PPSO
+184,Junta 1392,SAN JOSE,VAZQUEZ DE CORONADO,SAN ISIDRO,Posible Intercambio de Información de los Votos Entre PPSO y PPSD (Revisar Miembros de Mesa pertenecientes a Partidos)
+185,Junta 1395,SAN JOSE,VAZQUEZ DE CORONADO,SAN ISIDRO,Sin datos en la Certificación,0 Votos PPSO
+186,Junta 1397,SAN JOSE,VAZQUEZ DE CORONADO,SAN ISIDRO,Certificación no disponible,157 Votos PPSO
+187,Junta 1400,SAN JOSE,VAZQUEZ DE CORONADO,SAN ISIDRO,0 Votos PPSO,0 Votos PPSO (Revisar Miembros de Mesa pertenecientes a Partidos)
+187,Junta 1412,SAN JOSE,VAZQUEZ DE CORONADO,DULCE NOMBRE DE JESUS,164 Votos PPSO,0 Votos PPSO
+188,Junta 1422,SAN JOSE,VAZQUEZ DE CORONADO,DULCE NOMBRE DE JESUS,Votos no Legibles,0 Votos PPSO
+189,Junta 1431,SAN JOSE,VAZQUEZ DE CORONADO,PATALILLO,153 Votos PPSO,0 Votos PPSO (153 Votos PUSC - Unidad Social Cristiana)
+190,Junta 1438,SAN JOSE,VAZQUEZ DE CORONADO,PATALILLO,Certificación no disponible,160 Votos PPSO
+191,Junta 1444,SAN JOSE,VAZQUEZ DE CORONADO,PATALILLO,Certificación no disponible,168 Votos PPSO
+192,Junta 1449,SAN JOSE,VAZQUEZ DE CORONADO,PATALILLO,163 Votos PPSO,162 Votos PPSO
+193,Junta 1450,SAN JOSE,VAZQUEZ DE CORONADO,PATALILLO,132 Votos PPSO,Resultados no Procesados
+194,Junta 1454,SAN JOSE,VAZQUEZ DE CORONADO,CARAJAL,178 Votos PPSO,167 Votos PPSO
+195,Junta 1457,SAN JOSE,VAZQUEZ DE CORONADO,CARAJAL,171 Votos PPSO,162 Votos PPSO
+196,Junta 1464,SAN JOSE,ACOSTA,SAN IGNACIO,Certificación no disponible,172 Votos PPSO
+197,Junta 1468,SAN JOSE,ACOSTA,SAN IGNACIO,Certificación no disponible,211 Votos PPSO
+198,Junta 1531,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,149 Votos PPSO
+199,Junta 1532,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,15 Votos PPSO
+200,Junta 1533,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,173 Votos PPSO
+201,Junta 1534,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,159 Votos PPSO
+202,Junta 1535,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,170 Votos PPSO
+203,Junta 1536,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,177 Votos PPSO
+204,Junta 1537,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,166 Votos PPSO
+205,Junta 1539,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,180 Votos PPSO
+206,Junta 1540,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,176 Votos PPSO
+207,Junta 1541,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,159 Votos PPSO
+208,Junta 1542,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,184 Votos PPSO
+209,Junta 1543,SAN JOSE,TIBAS,SAN JUAN,Certificación no disponible,176 Votos PPSO
+210,Junta 1544,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,182 Votos PPSO
+211,Junta 1545,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,176 Votos PPSO
+212,Junta 1546,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,184 Votos PPSO
+213,Junta 1547,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,185 Votos PPSO
+214,Junta 1548,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,178 Votos PPSO
+215,Junta 1549,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,5 Votos PPSO
+216,Junta 1550,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,153 Votos PPSO
+217,Junta 1551,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,174 Votos PPSO
+218,Junta 1552,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,156 Votos PPSO
+219,Junta 1553,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,180 Votos PPSO
+220,Junta 1554,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,175 Votos PPSO
+221,Junta 1555,SAN JOSE,TIBAS,CINCO ESQUINAS,Certificación no disponible,168 Votos PPSO
+222,Junta 1571,SAN JOSE,TIBAS,LEON XIII,Certificación no disponible,15 Votos PPSO
+223,Junta 1580,SAN JOSE,TIBAS,LEON XIII,203 Votos PPSO,3 Votos PPSO
+224,Junta 1588,SAN JOSE,TIBAS,COLIMA,156 Votos PPSO,106 Votos PPSO
+225,Junta 1589,SAN JOSE,TIBAS,COLIMA,159 Votos PPSO,3 Votos PPSO (159 Votos Nueva Republica)
+226,Junta 1597,SAN JOSE,TIBAS,COLIMA,Certificación no disponible,164 Votos PPSO
+227,Junta 1599,SAN JOSE,TIBAS,COLIMA,Certificación no disponible,161 Votos PPSO
+228,Junta 1645,SAN JOSE,MORAVIA,SAN VICENTE,Certificación no disponible,151 Votos PPSO
+229,Junta 1646,SAN JOSE,MORAVIA,SAN VICENTE,Certificación no disponible,139 Votos PPSO
+230,Junta 1647,SAN JOSE,MORAVIA,SAN VICENTE,Certificación no disponible,153 Votos PPSO
+231,Junta 1648,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,139 Votos PPSO
+232,Junta 1649,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,139 Votos PPSO
+233,Junta 1650,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,133 Votos PPSO
+234,Junta 1651,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,153 Votos PPSO
+235,Junta 1652,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,152 Votos PPSO
+236,Junta 1653,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,154 Votos PPSO
+237,Junta 1654,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,162 Votos PPSO
+238,Junta 1655,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,170 Votos PPSO
+239,Junta 1656,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,156 Votos PPSO
+240,Junta 1657,SAN JOSE,MORAVIA,SAN JERONIMO,Certificación no disponible,108 Votos PPSO
+241,Junta 1658,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,165 Votos PPSO
+242,Junta 1659,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,188 Votos PPSO
+243,Junta 1660,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,165 Votos PPSO
+244,Junta 1661,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,175 Votos PPSO
+255,Junta 1662,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,172 Votos PPSO
+256,Junta 1663,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,176 Votos PPSO
+257,Junta 1664,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,164 Votos PPSO
+258,Junta 1665,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,171 Votos PPSO
+259,Junta 1666,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,166 Votos PPSO
+260,Junta 1667,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,153 Votos PPSO
+261,Junta 1668,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,172 Votos PPSO
+262,Junta 1669,SAN JOSE,MORAVIA,LA TRINIDAD,Certificación no disponible,163 Votos PPSO
+263,Junta 1674,SAN JOSE,MORAVIA,LA TRINIDAD,181 Votos PPSO,101 Votos PPSO
+264,Junta 1685,SAN JOSE,MONTES DE OCA,SAN PEDRO,Certificación no disponible,92 Votos PPSO
+265,Junta 1688,SAN JOSE,MONTES DE OCA,SAN PEDRO,Votos no Legibles,Resultados no Procesados (Caso particular,sobrepusieron los votos al PPSO y se aumentaron los votos Frente Amplio)
+266,Junta 1699,SAN JOSE,MONTES DE OCA,SAN PEDRO,Certificación no disponible,92 Votos PPSO
+267,Junta 1707,SAN JOSE,MONTES DE OCA,SAN PEDRO,117 Votos PPSO,Resultados no Procesados
+268,Junta 1715,SAN JOSE,MONTES DE OCA,SAN PEDRO,122 Votos PPSO,Resultados no Procesados
+269,Junta 1716,SAN JOSE,MONTES DE OCA,SAN PEDRO,Certificación no disponible,Resultados no Procesados
+270,Junta 1717,SAN JOSE,MONTES DE OCA,SAN PEDRO,9 Votos PPSO,9 Votos PPSO 
+271,Junta 1724,SAN JOSE,MONTES DE OCA,SABANILLA,117 Votos PPSO,Resultados no Procesados
+272,Junta 1727,SAN JOSE,MONTES DE OCA,SABANILLA,131 Votos PPSO,Resultados no Procesados
+273,Junta 1729,SAN JOSE,MONTES DE OCA,SABANILLA,107 Votos PPSO,Resultados no Procesados
+274,Junta 1735,SAN JOSE,MONTES DE OCA,SABANILLA,111 Votos PPSO,Resultados no Procesados
+275,Junta 1740,SAN JOSE,MONTES DE OCA,SABANILLA,127 Votos PPSO,Resultados no Procesados
+276,Junta 1773,SAN JOSE,TURRUBARES,CARARA,Certificación no disponible,42 Votos PPSO
+277,Junta 1775,SAN JOSE,TURRUBARES,CARARA,Certificación no disponible,197 Votos PPSO
+278,Junta 1777,SAN JOSE,TURRUBARES,CARARA,Certificación no disponible,Resultados no Procesados
+279,Junta 1778,SAN JOSE,DOTA,SANTA MARIA,136 Votos PPSO,Resultados no Procesados
+280,Junta 1785,SAN JOSE,DOTA,SANTA MARIA,Certificación no disponible,13 Votos PPSO
+281,Junta 1798,SAN JOSE,CURRIDABAT,CURRIDABAT,Certificación no disponible,161 Votos PPSO
+282,Junta 1801,SAN JOSE,CURRIDABAT,CURRIDABAT,Certificación no disponible,150 Votos PPSO
+283,Junta 1802,SAN JOSE,CURRIDABAT,CURRIDABAT,166 Votos PPSO,157 Votos PPSO
+284,Junta 1805,SAN JOSE,CURRIDABAT,CURRIDABAT,Certificación no disponible,160 Votos PPSO
+285,Junta 1807,SAN JOSE,CURRIDABAT,CURRIDABAT,Certificación no disponible,166 Votos PPSO
+286,Junta 1825,SAN JOSE,CURRIDABAT,CURRIDABAT,114 Votos PPSO,Resultados no Procesados
+287,Junta 1827,SAN JOSE,CURRIDABAT,CURRIDABAT,Certificación no disponible,122 Votos PPSO
+288,Junta 1829,SAN JOSE,CURRIDABAT,CURRIDABAT,Certificación no disponible,97 Votos PPSO
+289,Junta 1845,SAN JOSE,CURRIDABAT,GRANADILLA,142 Votos PPSO,Resultados no Procesados
+290,Junta 1849,SAN JOSE,CURRIDABAT,GRANADILLA,Certificación no disponible,158 Votos PPSO
+291,Junta 1862,SAN JOSE,CURRIDABAT,SANCHEZ,98 Votos PPSO,30 Votos PPSO
+292,Junta 1864,SAN JOSE,CURRIDABAT,SANCHEZ,Certificación no disponible,98 Votos PPSO
+293,Junta 1878,SAN JOSE,CURRIDABAT,TIRRASES,184 Votos PPSO,Resultados no Procesados
+294,Junta 1884,SAN JOSE,CURRIDABAT,TIRRASES,212 Votos PPSO,Resultados no Procesados
+295,Junta 1887,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,192 Votos PPSO,Resultados no Procesados
+296,Junta 1893,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,Certificación no disponible,184 Votos PPSO
+297,Junta 1898,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,156 Votos PPSO,Resultados no Procesados
+298,Junta 1906,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,153 Votos PPSO,Resultados no Procesados
+299,Junta 1915,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,41 Votos PPSO,Resultados no Procesados
+300,Junta 1916,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,223 Votos PPSO,195 Votos PPSO
+301,Junta 1938,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,64 Votos PPSO,Resultados no Procesados
+302,Junta 1957,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,203 Votos PPSO,3 Votos PPSO
+303,Junta 1963,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,Certificación no disponible,176 Votos PPSO
+304,Junta 1969,SAN JOSE,PEREZ ZELEDON,SAN ISIDRO DEL GENERAL,47 Votos PPSO,56 Votos PPSO
+305,Junta 2003,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,206 Votos PPSO,Resultados no Procesados
+306,Junta 2004,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,208 Votos PPSO,Resultados no Procesados
+307,Junta 2005,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,Certificación no disponible,233 Votos PPSO
+308,Junta 2009,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,Certificación no disponible,221 Votos PPSO
+309,Junta 2016,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,Certificación no disponible,218 Votos PPSO
+310,Junta 2021,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,207 Votos PPSO,226 Votos PPSO
+311,Junta 2025,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,Certificación no disponible,218 Votos PPSO
+312,Junta 2026,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,Sin datos en la Certificación,0 Votos PPSO
+313,Junta 2034,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,Certificación no disponible,198 Votos PPSO
+314,Junta 2037,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,Certificación no disponible,166 Votos PPSO
+315,Junta 2039,SAN JOSE,PEREZ ZELEDON,DANIEL FLORES,Certificación no disponible,16 Votos PPSO
+316,Junta 2043,SAN JOSE,PEREZ ZELEDON,RIVAS,Certificación no disponible,166 Votos PPSO
+317,Junta 2044,SAN JOSE,PEREZ ZELEDON,RIVAS,Certificación no disponible,130 Votos PPSO
+318,Junta 2045,SAN JOSE,PEREZ ZELEDON,RIVAS,Certificación no disponible,137 Votos PPSO
+319,Junta 2046,SAN JOSE,PEREZ ZELEDON,RIVAS,Certificación no disponible,117 Votos PPSO
+320,Junta 2047,SAN JOSE,PEREZ ZELEDON,RIVAS,Certificación no disponible,93 Votos PPSO
+321,Junta 2051,SAN JOSE,PEREZ ZELEDON,RIVAS,94 Votos PPSO,Resultados no Procesados
+322,Junta 2052,SAN JOSE,PEREZ ZELEDON,RIVAS,Certificación no disponible,63 Votos PPSO
+323,Junta 2055,SAN JOSE,PEREZ ZELEDON,RIVAS,102 Votos PPSO,101 Votos PPSO
+324,Junta 2072,SAN JOSE,PEREZ ZELEDON,SAN PEDRO,Certificación no disponible,207 Votos PPSO
+325,Junta 2099,SAN JOSE,PEREZ ZELEDON,PEJIBAYE,Certificación no disponible,196 Votos PPSO
+326,Junta 2100,SAN JOSE,PEREZ ZELEDON,PEJIBAYE,Certificación no disponible,107 Votos PPSO
+327,Junta 2101,SAN JOSE,PEREZ ZELEDON,PEJIBAYE,Certificación no disponible,87 Votos PPSO
+328,Junta 2102,SAN JOSE,PEREZ ZELEDON,PEJIBAYE,Certificación no disponible,52 Votos PPSO
+329,Junta 2103,SAN JOSE,PEREZ ZELEDON,PEJIBAYE,Certificación no disponible,47 Votos PPSO
+330,Junta 2104,SAN JOSE,PEREZ ZELEDON,PEJIBAYE,Certificación no disponible,36 Votos PPSO
+331,Junta 2105,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,268 Votos PPSO
+332,Junta 2108,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,253 Votos PPSO
+333,Junta 2112,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,228 Votos PPSO
+334,Junta 2113,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,238 Votos PPSO
+335,Junta 2114,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,259 Votos PPSO
+336,Junta 2115,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,194 Votos PPSO
+337,Junta 2116,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,193 Votos PPSO
+338,Junta 2117,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,215 Votos PPSO
+339,Junta 2118,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,207 Votos PPSO
+340,Junta 2119,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,131 Votos PPSO
+341,Junta 2120,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,56 Votos PPSO
+342,Junta 2121,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,174 Votos PPSO
+343,Junta 2122,SAN JOSE,PEREZ ZELEDON,CAJON,Certificación no disponible,163 Votos PPSO
+344,Junta 2124,SAN JOSE,PEREZ ZELEDON,BARU,Certificación no disponible,135 Votos PPSO
+345,Junta 2126,SAN JOSE,PEREZ ZELEDON,BARU,Certificación no disponible,133 Votos PPSO
+346,Junta 2127,SAN JOSE,PEREZ ZELEDON,BARU,Certificación no disponible,158 Votos PPSO
+347,Junta 2129,SAN JOSE,PEREZ ZELEDON,BARU,Certificación no disponible,91 Votos PPSO
+348,Junta 2131,SAN JOSE,PEREZ ZELEDON,RIO NUEVO,Certificación no disponible,177 Votos PPSO
+349,Junta 2132,SAN JOSE,PEREZ ZELEDON,RIO NUEVO,Certificación no disponible,135 Votos PPSO
+350,Junta 2133,SAN JOSE,PEREZ ZELEDON,RIO NUEVO,Certificación no disponible,150 Votos PPSO
+351,Junta 2138,SAN JOSE,PEREZ ZELEDON,RIO NUEVO,Certificación no disponible,56 Votos PPSO
+352,Junta 2141,SAN JOSE,PEREZ ZELEDON,RIO NUEVO,190 Votos PPSO,Resultados no Procesados
+1,Junta 2188,ALAJUELA,CENTRAL,ALAJUELA,160 Votos PPSO,Resultados no Procesados
+2,Junta 2195,ALAJUELA,CENTRAL,ALAJUELA,Certificación no disponible,184 Votos PPSO
+3,Junta 2215,ALAJUELA,CENTRAL,ALAJUELA,217 Votos PPSO,Resultados no Procesados
+4,Junta 2222,ALAJUELA,CENTRAL,ALAJUELA,198 Votos PPSO,Resultados no Procesados
+5,Junta 2223,ALAJUELA,CENTRAL,ALAJUELA,208 Votos PPSO,Resultados no Procesados
+6,Junta 2224,ALAJUELA,CENTRAL,ALAJUELA,212 Votos PPSO,Resultados no Procesados
+7,Junta 2225,ALAJUELA,CENTRAL,ALAJUELA,213 Votos PPSO,Resultados no Procesados
+8,Junta 2234,ALAJUELA,CENTRAL,ALAJUELA,211 Votos PPSO,Resultados no Procesados 
+9,Junta 2270,ALAJUELA,CENTRAL,SAN JOSE,194 Votos PPSO,Resultados no Procesados 
+10,Junta 2287,ALAJUELA,CENTRAL,SAN JOSE,206 Votos PPSO,Resultados no Procesados 
+11,Junta 2313,ALAJUELA,CENTRAL,SAN JOSE,Certificación no disponible,218 Votos PPSO
+12,Junta 2314,ALAJUELA,CENTRAL,SAN JOSE,Certificación no disponible,225 Votos PPSO
+13,Junta 2316,ALAJUELA,CENTRAL,SAN JOSE,226 Votos PPSO,Resultados no Procesados 
+14,Junta 2317,ALAJUELA,CENTRAL,SAN JOSE,Certificación no disponible,188 Votos PPSO
+15,Junta 2316,ALAJUELA,CENTRAL,SAN JOSE,218 Votos PPSO,Resultados no Procesados 
+16,Junta 2387,ALAJUELA,CENTRAL,GUACIMA,Sin datos en la Certificación,184 Votos PPSO
+17,Junta 2389,ALAJUELA,CENTRAL,GUACIMA,Votos no Legibles,20 Votos PPSO
+18,Junta 2428,ALAJUELA,CENTRAL,GUACIMA,0 Votos PPSO,0 Votos PPSO
+19,Junta 2435,ALAJUELA,CENTRAL,GUACIMA,168 Votos PPSO,Resultados no Procesados 
+20,Junta 2444,ALAJUELA,CENTRAL,SAN RAFAEL,235 Votos PPSO,Resultados no Procesados 
+21,Junta 2451,ALAJUELA,CENTRAL,SAN RAFAEL,197 Votos PPSO,Resultados no Procesados 
+22,Junta 2455,ALAJUELA,CENTRAL,SAN RAFAEL,Certificación no disponible,232 Votos PPSO 
+23,Junta 2471,ALAJUELA,CENTRAL,SAN RAFAEL,261 Votos PPSO,Resultados no Procesados
+24,Junta 2475,ALAJUELA,CENTRAL,SAN RAFAEL,39 Votos PPSO,Resultados no Procesados 
+25,Junta 2475,ALAJUELA,CENTRAL,SAN RAFAEL,0 Votos PPSO,Resultados no Procesados 
+26,Junta 2476,ALAJUELA,CENTRAL,SAN RAFAEL,0 Votos PPSO,0 Votos PPSO
+27,Junta 2514,ALAJUELA,CENTRAL,DESAMPARADOS,200 Votos PPSO,217 Votos PPSO
+28,Junta 2515,ALAJUELA,CENTRAL,DESAMPARADOS,205 Votos PPSO,211 Votos PPSO
+29,Junta 2522,ALAJUELA,CENTRAL,DESAMPARADOS,203 Votos PPSO,213 Votos PPSO
+30,Junta 2524,ALAJUELA,CENTRAL,DESAMPARADOS,227 Votos PPSO,226 Votos PPSO
+31,Junta 2546,ALAJUELA,CENTRAL,TURRUCARES,196 Votos PPSO,Resultados no Procesados 
+32,Junta 2559,ALAJUELA,CENTRAL,TAMBOR,217 Votos PPSO,Resultados no Procesados 
+33,Junta 2562,ALAJUELA,CENTRAL,TAMBOR,0 Votos PPSO,0 Votos PPSO
+34,Junta 2564,ALAJUELA,CENTRAL,TAMBOR,232 Votos PPSO,0 Votos PPSO (232 Votos PPSD)
+35,Junta 2582,ALAJUELA,CENTRAL,GARITA,178 Votos PPSO,176 Votos PPSO 
+36,Junta 2599,ALAJUELA,SAN RAMON,SAN RAMON,Certificación no disponible,174 Votos PPSO
+37,Junta 2605,ALAJUELA,SAN RAMON,SAN RAMON,Sin datos en la Certificación,197 Votos PPSO
+38,Junta 2613,ALAJUELA,SAN RAMON,SANTIAGO,Certificación no disponible,207 Votos PPSO
+39,Junta 2615,ALAJUELA,SAN RAMON,SANTIAGO,Certificación no disponible,69 Votos PPSO
+40,Junta 2623,ALAJUELA,SAN RAMON,SAN JUAN,Certificación no disponible,221 Votos PPSO
+41,Junta 2623,ALAJUELA,SAN RAMON,SAN JUAN,193 Votos PPSO,Resultados no Procesados 
+42,Junta 2623,ALAJUELA,SAN RAMON,SAN JUAN,186 Votos PPSO,Resultados no Procesados 
+43,Junta 2635,ALAJUELA,SAN RAMON,SAN JUAN,183 Votos PPSO,Resultados no Procesados 
+44,Junta 2640,ALAJUELA,SAN RAMON,PIEDADES NORTE,Certificación no disponible,213 Votos PPSO
+45,Junta 2643,ALAJUELA,SAN RAMON,PIEDADES NORTE,Certificación no disponible,204 Votos PPSO
+46,Junta 2645,ALAJUELA,SAN RAMON,PIEDADES NORTE,Certificación no disponible,232 Votos PPSO
+47,Junta 2646,ALAJUELA,SAN RAMON,PIEDADES NORTE,Certificación no disponible,209 Votos PPSO
+48,Junta 2647,ALAJUELA,SAN RAMON,PIEDADES NORTE,Certificación no disponible,180 Votos PPSO
+49,Junta 2657,ALAJUELA,SAN RAMON,PIEDADES SUR,Certificación no disponible,65 Votos PPSO
+50,Junta 2670,ALAJUELA,SAN RAMON,SAN RAFAEL,Votos no Legibles,Resultados no Procesados
+51,Junta 2691,ALAJUELA,SAN RAMON,ALFARO,Certificación no disponible,194 Votos PPSO
+52,Junta 2715,ALAJUELA,SAN RAMON,PEÑAS BLANCAS,Certificación no disponible,273 Votos PPSO
+53,Junta 2717,ALAJUELA,SAN RAMON,PEÑAS BLANCAS,Certificación no disponible,214 Votos PPSO
+54,Junta 2719,ALAJUELA,SAN RAMON,PEÑAS BLANCAS,Certificación no disponible,219 Votos PPSO 
+55,Junta 2723,ALAJUELA,SAN RAMON,SAN LORENZO,Certificación no disponible,13 Votos PPSO 
+56,Junta 2727,ALAJUELA,SAN RAMON,SAN LORENZO,Certificación no disponible,321 Votos PPSO 
+57,Junta 2728,ALAJUELA,SAN RAMON,SAN LORENZO,Certificación no disponible,225 Votos PPSO 
+58,Junta 2745,ALAJUELA,GRECIA,GRECIA,Certificación no disponible,38 Votos PPSO (193 Votos PPSD)
+59,Junta 2749,ALAJUELA,GRECIA,GRECIA,233 Votos PPSO,29 Votos PPSO (233 Votos PPSD)
+60,Junta 2766,ALAJUELA,GRECIA,SAN ISIDRO,Certificación no disponible,210 Votos PPSO
+61,Junta 2770,ALAJUELA,GRECIA,SAN JOSE,Certificación no disponible,Resultados no Procesados
+62,Junta 2779,ALAJUELA,GRECIA,SAN JOSE,Certificación no disponible,122 Votos PPSO 
+63,Junta 2785,ALAJUELA,GRECIA,SAN ROQUE,Certificación no disponible,Resultados no Procesados
+64,Junta 2788,ALAJUELA,GRECIA,SAN ROQUE,271 Votos PPSO,Resultados no Procesados
+65,Junta 2792,ALAJUELA,GRECIA,SAN ROQUE,Certificación no disponible,156 Votos PPSO 
+66,Junta 2804,ALAJUELA,GRECIA,TACARES,Certificación no disponible,270 Votos PPSO 
+67,Junta 2820,ALAJUELA,GRECIA,PUENTE DE PIEDRA,Certificación no disponible,147 Votos PPSO 
+68,Junta 2821,ALAJUELA,GRECIA,PUENTE DE PIEDRA,Certificación no disponible,179 Votos PPSO 
+69,Junta 2822,ALAJUELA,GRECIA,PUENTE DE PIEDRA,Certificación no disponible,169 Votos PPSO 
+70,Junta 2827,ALAJUELA,GRECIA,PUENTE DE PIEDRA,Certificación no disponible,223 Votos PPSO 
+71,Junta 2842,ALAJUELA,GRECIA,BOLIVAR,Certificación no disponible,206 Votos PPSO 
+72,Junta 2844,ALAJUELA,GRECIA,BOLIVAR,Certificación no disponible,224 Votos PPSO 
+73,Junta 2846,ALAJUELA,GRECIA,BOLIVAR,142 Votos PPSO,Resultados no Procesados
+74,Junta 2856,ALAJUELA,SAN MATEO,JESUS BOLIBAR,Sin datos en la Certificación,Resultados no Procesados
+75,Junta 2866,ALAJUELA,ATENAS,ATENAS,Certificación no disponible,190 Votos PPSO 
+76,Junta 2870,ALAJUELA,ATENAS,ATENAS,179 Votos PPSO,Resultados no Procesados
+77,Junta 2872,ALAJUELA,ATENAS,ATENAS,163 Votos PPSO,Resultados no Procesados
+78,Junta 2919,ALAJUELA,NARANJO,NARANJO,189 Votos PPSO,159 Votos PPSO
+79,Junta 2939,ALAJUELA,NARANJO,SAN MIGUEL,Certificación no disponible,207 Votos PPSO
+80,Junta 2975,ALAJUELA,NARANJO,PALMITOS,Votos no Legibles,232 Votos PPSO
+81,Junta 2998,ALAJUELA,PALMARES,ZARAGOZA,Certificación no disponible,218 Votos PPSO
+82,Junta 3030,ALAJUELA,PALMARES,LA GRANJA,171 Votos PPSO,Resultados no Procesados
+83,Junta 3035,ALAJUELA,PALMARES,LA GRANJA,Certificación no disponible,0 Votos PPSO
+84,Junta 3036,ALAJUELA,POAS,SAN PEDRO,222 Votos PPSO,Resultados no Procesados
+85,Junta 3043,ALAJUELA,POAS,SAN PEDRO,229 Votos PPSO,Resultados no Procesados
+86,Junta 3044,ALAJUELA,POAS,SAN PEDRO,227 Votos PPSO,Resultados no Procesados
+87,Junta 3046,ALAJUELA,POAS,SAN PEDRO,214 Votos PPSO,Resultados no Procesados
+88,Junta 3048,ALAJUELA,POAS,SAN PEDRO,231 Votos PPSO,0 Votos PPSO (231 Votos PPSD)
+89,Junta 3048,ALAJUELA,POAS,SAN JUAN,199 Votos PPSO,Resultados no Procesados
+90,Junta 3058,ALAJUELA,POAS,SAN RAFAEL,206 Votos PPSO,Resultados no Procesados
+91,Junta 3075,ALAJUELA,POAS,CARRILLOS,200 Votos PPSO,Resultados no Procesados
+92,Junta 3078,ALAJUELA,POAS,CARRILLOS,196 Votos PPSO,Resultados no Procesados 0 Votos PPSO
+93,Junta 3090,ALAJUELA,OROTINA,OROTINA,Certificación no disponible,198 Votos PPSO
+94,Junta 3092,ALAJUELA,OROTINA,OROTINA,197 Votos PPSO,Resultados no Procesados
+95,Junta 3096,ALAJUELA,OROTINA,OROTINA,179 Votos PPSO,Resultados no Procesados
+96,Junta 3097,ALAJUELA,OROTINA,OROTINA,183 Votos PPSO,Resultados no Procesados
+97,Junta 3106,ALAJUELA,OROTINA,COYOLAR,Certificación no disponible,183 Votos PPSO
+98,Junta 3122,ALAJUELA,SAN CARLOS,QUESADA,0 Votos PPSO,0 Votos PPSO
+99,Junta 3143,ALAJUELA,SAN CARLOS,QUESADA,244 Votos PPSO,Resultados no Procesados
+100,Junta 3151,ALAJUELA,SAN CARLOS,QUESADA,Certificación no disponible,Resultados no Procesados
+101,Junta 3153,ALAJUELA,SAN CARLOS,QUESADA,189 Votos PPSO,184 Votos PPSO
+102,Junta 3158,ALAJUELA,SAN CARLOS,QUESADA,200 Votos PPSO,Resultados no Procesados 
+103,Junta 3163,ALAJUELA,SAN CARLOS,QUESADA,Certificación no disponible,194 Votos PPSO
+104,Junta 3172,ALAJUELA,SAN CARLOS,QUESADA,190 Votos PPSO,Resultados no Procesados 
+105,Junta 3191,ALAJUELA,SAN CARLOS,FLORENCIA,Certificación no disponible,256 Votos PPSO
+106,Junta 3222,ALAJUELA,SAN CARLOS,AGUAS ZARCAS,249 Votos PPSO,Resultados no Procesados 
+107,Junta 3225,ALAJUELA,SAN CARLOS,AGUAS ZARCAS,263 Votos PPSO,Resultados no Procesados 
+108,Junta 3227,ALAJUELA,SAN CARLOS,AGUAS ZARCAS,272 Votos PPSO,Resultados no Procesados
+109,Junta 3229,ALAJUELA,SAN CARLOS,AGUAS ZARCAS,290 Votos PPSO,Resultados no Procesados
+110,Junta 3230,ALAJUELA,SAN CARLOS,AGUAS ZARCAS,284 Votos PPSO,Resultados no Procesados
+111,Junta 3240,ALAJUELA,SAN CARLOS,AGUAS ZARCAS,Votos no Legibles,Resultados no Procesados
+112,Junta 3249,ALAJUELA,SAN CARLOS,VENECIA,Certificación no disponible,227 Votos PPSO
+113,Junta 3255,ALAJUELA,SAN CARLOS,VENECIA,222 Votos PPSO,Resultados no Procesados 0 Votos PPSO
+114,Junta 3264,ALAJUELA,SAN CARLOS,PITAL,250 Votos PPSO,Resultados no Procesados
+115,Junta 3266,ALAJUELA,SAN CARLOS,PITAL,Certificación no disponible,279 Votos PPSO
+116,Junta 3277,ALAJUELA,SAN CARLOS,PITAL,Certificación no disponible,217 Votos PPSO
+117,Junta 3282,ALAJUELA,SAN CARLOS,LA FORTUNA,Certificación no disponible,278 Votos PPSO
+118,Junta 3283,ALAJUELA,SAN CARLOS,LA FORTUNA,Certificación no disponible,289 Votos PPSO
+119,Junta 3286,ALAJUELA,SAN CARLOS,LA FORTUNA,Certificación no disponible,267 Votos PPSO
+120,Junta 3302,ALAJUELA,SAN CARLOS,LA FORTUNA,231 Votos PPSO,Resultados no Procesados
+121,Junta 3303,ALAJUELA,SAN CARLOS,LA FORTUNA,215 Votos PPSO,Resultados no Procesados
+122,Junta 3304,ALAJUELA,SAN CARLOS,LA FORTUNA,222 Votos PPSO,Resultados no Procesados
+123,Junta 3330,ALAJUELA,SAN CARLOS,CUTRIS,195 Votos PPSO,11 Votos PPSO (195 Votos PPSD)
+124,Junta 3332,ALAJUELA,SAN CARLOS,CUTRIS,201 Votos PPSO,Resultados no Procesados
+125,Junta 3340,ALAJUELA,SAN CARLOS,CUTRIS,Certificación no disponible,134 Votos PPSO
+126,Junta 3341,ALAJUELA,SAN CARLOS,CUTRIS,Certificación no disponible,134 Votos PPSO
+127,Junta 3342,ALAJUELA,SAN CARLOS,CUTRIS,Certificación no disponible,63 Votos PPSO
+128,Junta 3352,ALAJUELA,SAN CARLOS,MONTERREY,Certificación no disponible,44 Votos PPSO
+129,Junta 3353,ALAJUELA,SAN CARLOS,POCOSOL,Certificación no disponible,218 Votos PPSO
+130,Junta 3354,ALAJUELA,SAN CARLOS,POCOSOL,Certificación no disponible,203 Votos PPSO
+131,Junta 3355,ALAJUELA,SAN CARLOS,POCOSOL,Certificación no disponible,283 Votos PPSO
+132,Junta 3356,ALAJUELA,SAN CARLOS,POCOSOL,Certificación no disponible,249 Votos PPSO
+133,Junta 3358,ALAJUELA,SAN CARLOS,POCOSOL,240 Votos PPSO,Resultados no Procesados
+134,Junta 3360,ALAJUELA,SAN CARLOS,POCOSOL,Certificación no disponible,Resultados no Procesados
+135,Junta 3363,ALAJUELA,SAN CARLOS,POCOSOL,241 Votos PPSO,Resultados no Procesados
+136,Junta 3380,ALAJUELA,ZARCERO,ZARCERO,196 Votos PPSO,Resultados no Procesados
+137,Junta 3417,ALAJUELA,SARCHI,SARCHI SUR,222 Votos PPSO,Resultados no Procesados
+138,Junta 3419,ALAJUELA,SARCHI,SARCHI SUR,224 Votos PPSO,228 Votos PPSO
+139,Junta 3493,ALAJUELA,UPALA,YOLILLAL,140 Votos PPSO,Resultados no Procesados
+1,Junta 3595,CARTAGO,CENTRAL,ORIENTAL,123 Votos PPSO,Resultados no Procesados
+2,Junta 3601,CARTAGO,CENTRAL,ORIENTAL,132 Votos PPSO,Resultados no Procesados
+3,Junta 3604,CARTAGO,CENTRAL,ORIENTAL,133 Votos PPSO,Resultados no Procesados
+3,Junta 3624,CARTAGO,CENTRAL,CARMEN,Certificación no disponible,37 Votos PPSO
+4,Junta 3633,CARTAGO,CENTRAL,CARMEN,136 Votos PPSO,Resultados no Procesados
+5,Junta 3647,CARTAGO,CENTRAL,SAN NICOLAS,142 Votos PPSO,Resultados no Procesados
+6,Junta 3657,CARTAGO,CENTRAL,SAN NICOLAS,155 Votos PPSO,Resultados no Procesados
+7,Junta 3665,CARTAGO,CENTRAL,SAN NICOLAS,135 Votos PPSO,0 Votos PPSO (135 Votos PPSD)
+8,Junta 3684,CARTAGO,CENTRAL,SAN NICOLAS,161 Votos PPSO,Resultados no Procesados
+9,Junta 3685,CARTAGO,CENTRAL,AGUA CALIENTE O SAN FRANCISCO,180 Votos PPSO,Resultados no Procesados
+10,Junta 3686,CARTAGO,CENTRAL,AGUA CALIENTE O SAN FRANCISCO,Votos no Legibles,Resultados no Procesados
+11,Junta 3687,CARTAGO,CENTRAL,AGUA CALIENTE O SAN FRANCISCO,174 Votos PPSO,Resultados no Procesados
+12,Junta 3689,CARTAGO,CENTRAL,AGUA CALIENTE O SAN FRANCISCO,170 Votos PPSO,Resultados no Procesados
+13,Junta 3701,CARTAGO,CENTRAL,AGUA CALIENTE O SAN FRANCISCO,183 Votos PPSO,Resultados no Procesados
+14,Junta 3704,CARTAGO,CENTRAL,AGUA CALIENTE O SAN FRANCISCO,183 Votos PPSO,161 Votos PPSO
+15,Junta 3707,CARTAGO,CENTRAL,AGUA CALIENTE O SAN FRANCISCO,169 Votos PPSO,Resultados no Procesados
+16,Junta 3760,CARTAGO,CENTRAL,CORRALILLO,146 Votos PPSO,Resultados no Procesados
+17,Junta 3766,CARTAGO,CENTRAL,CORRALILLO,Votos no Legibles,88 Votos PPSO
+18,Junta 3797,CARTAGO,CENTRAL,DULCE NOMBRE,176 Votos PPSO,Resultados no Procesados
+19,Junta 3801,CARTAGO,CENTRAL,LLANO GRANDE,66 O 6 Votos PPSO,6 Votos PPSO
+20,Junta 3807,CARTAGO,CENTRAL,QUEBRADILLA,0 Votos PPSO,0 Votos PPSO
+21,Junta 3819,CARTAGO,PARAISO,PARAISO,174 Votos PPSO,Resultados no Procesados
+22,Junta 3821,CARTAGO,PARAISO,PARAISO,Certificación no disponible,149 Votos PPSO
+23,Junta 3825,CARTAGO,PARAISO,PARAISO,Certificación no disponible,158 Votos PPSO
+24,Junta 3828,CARTAGO,PARAISO,PARAISO,Certificación no disponible,140 Votos PPSO
+25,Junta 3832,CARTAGO,PARAISO,PARAISO,165 Votos PPSO,Resultados no Procesados
+26,Junta 3834,CARTAGO,PARAISO,PARAISO,Certificación no disponible,154 Votos PPSO
+27,Junta 3835,CARTAGO,PARAISO,PARAISO,151 Votos PPSO,Resultados no Procesados
+28,Junta 3845,CARTAGO,PARAISO,PARAISO,154 Votos PPSO,Resultados no Procesados
+29,Junta 3869,CARTAGO,PARAISO,OROSI,105 Votos PPSO,104 Votos PPSO
+30,Junta 3887,CARTAGO,PARAISO,LLANOS DE SANTA LUCIA,176 Votos PPSO,Resultados no Procesados
+31,Junta 3892,CARTAGO,PARAISO,LLANOS DE SANTA LUCIA,Certificación no disponible,198 Votos PPSO
+32,Junta 3895,CARTAGO,PARAISO,LLANOS DE SANTA LUCIA,187 Votos PPSO,Resultados no Procesados
+33,Junta 3900,CARTAGO,PARAISO,LLANOS DE SANTA LUCIA,157 Votos PPSO,Resultados no Procesados
+34,Junta 3903,CARTAGO,PARAISO,LLANOS DE SANTA LUCIA,177 Votos PPSO,Resultados no Procesados
+35,Junta 3911,CARTAGO,PARAISO,BIRRISITO,Certificación no disponible,159 Votos PPSO
+36,Junta 3912,CARTAGO,PARAISO,BIRRISITO,Certificación no disponible,149 Votos PPSO
+37,Junta 3933,CARTAGO,LA UNION,SAN DIEGO,Certificación no disponible,Resultados no Procesados
+38,Junta 3942,CARTAGO,LA UNION,SAN DIEGO,166 Votos PPSO,Resultados no Procesados
+39,Junta 3944,CARTAGO,LA UNION,SAN DIEGO,199 Votos PPSO,Resultados no Procesados
+40,Junta 3962,CARTAGO,LA UNION,SAN JUAN,Certificación no disponible,124 Votos PPSO
+41,Junta 3981,CARTAGO,LA UNION,SAN RAFAEL,174 Votos PPSO,165 Votos PPSO
+42,Junta 3998,CARTAGO,LA UNION,CONCEPCIÓN,Certificación no disponible,193 Votos PPSO
+43,Junta 4007,CARTAGO,LA UNION,CONCEPCIÓN,Certificación no disponible,179 Votos PPSO
+44,Junta 4011,CARTAGO,LA UNION,CONCEPCIÓN,Certificación no disponible,172 Votos PPSO
+45,Junta 4031,CARTAGO,LA UNION,DULCE NOMBRE,183 Votos PPSO,181 Votos PPSO
+46,Junta 4033,CARTAGO,LA UNION,SAN RAMON,153 Votos PPSO,Resultados no Procesados
+47,Junta 4034,CARTAGO,LA UNION,SAN RAMON,118 Votos PPSO,Resultados no Procesados
+48,Junta 4037,CARTAGO,LA UNION,SAN RAMON,Certificación no disponible,Resultados no Procesados
+49,Junta 4039,CARTAGO,LA UNION,RIO AZUL,Certificación no disponible,171 Votos PPSO
+50,Junta 4042,CARTAGO,LA UNION,RIO AZUL,Certificación no disponible,168 Votos PPSO
+51,Junta 4071,CARTAGO,JIMENEZ,PEJIVALLE,Certificación no disponible,42 Votos PPSO
+52,Junta 4110,CARTAGO,TURRIALBA,TURRIALBA,137 Votos PPSO,24 Votos PPSO (137 Votos PPSD)
+53,Junta 4122,CARTAGO,TURRIALBA,LA SUIZA,158 Votos PPSO,Resultados no Procesados
+54,Junta 4152,CARTAGO,TURRIALBA,SANTA TERESITA,103 Votos PPSO,Resultados no Procesados
+55,Junta 4174,CARTAGO,TURRIALBA,TUIS,Votos no Legibles,Resultados no Procesados
+56,Junta 4192,CARTAGO,TURRIALBA,TUIS,Certificación no disponible,135 Votos PPSO
+57,Junta 4215,CARTAGO,TURRIALBA,CHIRRIPO,32 Votos PPSO,2 Votos PPSO
+58,Junta 4222,CARTAGO,ALVARADO,PACAYAS,91 Votos PPSO,Resultados no Procesados
+59,Junta 4227,CARTAGO,ALVARADO,CERVANTES,165 Votos PPSO,Resultados no Procesados
+60,Junta 4229,CARTAGO,ALVARADO,CERVANTES,Certificación no disponible,177 Votos PPSO
+61,Junta 4233,CARTAGO,ALVARADO,CERVANTES,Certificación no disponible,165 Votos PPSO
+62,Junta 4234,CARTAGO,ALVARADO,CERVANTES,Certificación no disponible,190 Votos PPSO
+63,Junta 4245,CARTAGO,OREAMUNO,SAN RAFAEL,121 Votos PPSO,21 Votos PPSO
+64,Junta 4247,CARTAGO,OREAMUNO,SAN RAFAEL,129 Votos PPSO,1 Votos PPSO (129 Votos PUSC - Unidad Social Cristiana)
+65,Junta 4254,CARTAGO,OREAMUNO,SAN RAFAEL,164 Votos PPSO,0 Votos PPSO (164 Votos PUSC - Unidad Social Cristiana)
+66,Junta 4255,CARTAGO,OREAMUNO,SAN RAFAEL,166 Votos PPSO,1 Votos PPSO (166 Votos PUSC - Unidad Social Cristiana)
+67,Junta 4261,CARTAGO,OREAMUNO,SAN RAFAEL,137 Votos PPSO,19 Votos PPSO (137 Votos PPSD)
+68,Junta 4302,CARTAGO,OREAMUNO,CIPRESES,91 Votos PPSO,0 Votos PPSO (91 Votos PPSD)
+69,Junta 4337,CARTAGO,EL GUARCO,TEJAR,186 Votos PPSO,16 Votos PPSO (186 Votos PPSD)
+70,Junta 4350,CARTAGO,EL GUARCO,SAN ISIDRO,Certificación no disponible,199 Votos PPSO
+71,Junta 4359,CARTAGO,EL GUARCO,SAN ISIDRO,Certificación no disponible,107 Votos PPSO
+72,Junta 4363,CARTAGO,EL GUARCO,SAN ISIDRO,143 Votos PPSO,Resultados no Procesados
+1,Junta 4386,HEREDIA,CENTRAL,HEREDIA,Certificación no disponible,151 Votos PPSO
+2,Junta 4389,HEREDIA,CENTRAL,HEREDIA,Certificación no disponible,168 Votos PPSO
+3,Junta 4400,HEREDIA,CENTRAL,HEREDIA,Certificación no disponible,164 Votos PPSO
+4,Junta 4402,HEREDIA,CENTRAL,HEREDIA,Certificación no disponible,149 Votos PPSO
+5,Junta 4403,HEREDIA,CENTRAL,HEREDIA,Certificación no disponible,177 Votos PPSO
+6,Junta 4415,HEREDIA,CENTRAL,MERCEDES,151 Votos PPSO,Resultados no Procesados
+7,Junta 4418,HEREDIA,CENTRAL,MERCEDES,Certificación no disponible,Resultados no Procesados
+8,Junta 4425,HEREDIA,CENTRAL,MERCEDES,Votos no Legibles,Resultados no Procesados
+9,Junta 4426,HEREDIA,CENTRAL,MERCEDES,145 Votos PPSO,Resultados no Procesados
+10,Junta 4427,HEREDIA,CENTRAL,MERCEDES,168 Votos PPSO,Resultados no Procesados
+11,Junta 4448,HEREDIA,CENTRAL,MERCEDES,Certificación no disponible,163 Votos PPSO
+12,Junta 4451,HEREDIA,CENTRAL,SAN FRANCISCO,Certificación no disponible,178 Votos PPSO
+13,Junta 4452,HEREDIA,CENTRAL,SAN FRANCISCO,Certificación no disponible,157 Votos PPSO
+14,Junta 4476,HEREDIA,CENTRAL,SAN FRANCISCO,Sin datos en la Certificación,186 Votos PPSO
+15,Junta 4485,HEREDIA,CENTRAL,SAN FRANCISCO,Certificación no disponible,Resultados no Procesados
+16,Junta 4486,HEREDIA,CENTRAL,SAN FRANCISCO,Certificación no disponible,Resultados no Procesados
+17,Junta 4498,HEREDIA,CENTRAL,SAN FRANCISCO,Certificación no disponible,189 Votos PPSO
+18,Junta 4502,HEREDIA,CENTRAL,SAN FRANCISCO,Certificación no disponible,205 Votos PPSO
+19,Junta 4506,HEREDIA,CENTRAL,SAN FRANCISCO,Certificación no disponible,195 Votos PPSO
+20,Junta 4508,HEREDIA,CENTRAL,SAN FRANCISCO,Certificación no disponible,206 Votos PPSO
+21,Junta 4515,HEREDIA,CENTRAL,SAN FRANCISCO,186 Votos PPSO,Resultados no Procesados
+22,Junta 4521,HEREDIA,CENTRAL,ULLOA,Certificación no disponible,182 Votos PPSO
+23,Junta 4526,HEREDIA,CENTRAL,ULLOA,Certificación no disponible,173 Votos PPSO
+24,Junta 4536,HEREDIA,CENTRAL,ULLOA,Votos no Legibles,Resultados no Procesados
+25,Junta 4554,HEREDIA,CENTRAL,ULLOA,0 Votos PPSO,0 Votos PPSO
+26,Junta 4567,HEREDIA,BARVA,BARVA,185 Votos PPSO,Resultados no Procesados
+27,Junta 4576,HEREDIA,BARVA,SAN PEDRO,229 Votos PPSO,212 Votos PPSO
+28,Junta 4578,HEREDIA,BARVA,SAN PEDRO,212 Votos PPSO,211 Votos PPSO
+29,Junta 4579,HEREDIA,BARVA,SAN PEDRO,Certificación no disponible,192 Votos PPSO
+30,Junta 4583,HEREDIA,BARVA,SAN PABLO,Certificación no disponible,199 Votos PPSO
+31,Junta 4598,HEREDIA,BARVA,SANTA LUCIA,Certificación no disponible,179 Votos PPSO
+32,Junta 4604,HEREDIA,BARVA,SANTA LUCIA,Certificación no disponible,177 Votos PPSO
+33,Junta 4613,HEREDIA,BARVA,SAN JOSE DE LA MONTAÑA,Certificación no disponible,202 Votos PPSO
+34,Junta 4615,HEREDIA,BARVA,SAN JOSE DE LA MONTAÑA,31 Votos PPSO,Resultados no Procesados
+35,Junta 4629,HEREDIA,SANTO DOMINGO,SANTO DOMINGO,Certificación no disponible,140 Votos PPSO
+36,Junta 4631,HEREDIA,SANTO DOMINGO,SANTO DOMINGO,Certificación no disponible,139 Votos PPSO
+37,Junta 4637,HEREDIA,SANTO DOMINGO,SAN VICENTE,Certificación no disponible,132 Votos PPSO
+38,Junta 4639,HEREDIA,SANTO DOMINGO,SAN VICENTE,123 Votos PPSO,Resultados no Procesados
+39,Junta 4640,HEREDIA,SANTO DOMINGO,SAN VICENTE,Certificación no disponible,130 Votos PPSO
+40,Junta 4643,HEREDIA,SANTO DOMINGO,SAN VICENTE,Certificación no disponible,141 Votos PPSO
+41,Junta 4644,HEREDIA,SANTO DOMINGO,SAN VICENTE,Certificación no disponible,139 Votos PPSO
+42,Junta 4646,HEREDIA,SANTO DOMINGO,SAN MIGUEL,Certificación no disponible,205 Votos PPSO
+43,Junta 4656,HEREDIA,SANTO DOMINGO,SAN MIGUEL,Certificación no disponible,173 Votos PPSO
+44,Junta 4660,HEREDIA,SANTO DOMINGO,PARACITO,204 Votos PPSO,Resultados no Procesados
+45,Junta 4663,HEREDIA,SANTO DOMINGO,SANTO TOMAS,Certificación no disponible,134 Votos PPSO
+46,Junta 4675,HEREDIA,SANTO DOMINGO,SANTA ROSA,202 Votos PPSO,Resultados no Procesados
+47,Junta 4676,HEREDIA,SANTO DOMINGO,SANTA ROSA,Certificación no disponible,164 Votos PPSO
+48,Junta 4686,HEREDIA,SANTO DOMINGO,PARA,157 Votos PPSO,Resultados no Procesados
+49,Junta 4695,HEREDIA,SANTA BARBARA,SANTA BARBARA,199 Votos PPSO,Resultados no Procesados
+50,Junta 4702,HEREDIA,SANTA BARBARA,SANTA BARBARA,Certificación no disponible,200 Votos PPSO
+51,Junta 4709,HEREDIA,SANTA BARBARA,SAN JUAN,Certificación no disponible,207 Votos PPSO
+52,Junta 4722,HEREDIA,SANTA BARBARA,JESUS,197 Votos PPSO,Resultados no Procesados
+53,Junta 4737,HEREDIA,SANTA BARBARA,PURABA,Certificación no disponible,160 Votos PPSO
+54,Junta 4741,HEREDIA,SANTA BARBARA,PURABA,Certificación no disponible,141 Votos PPSO
+55,Junta 4747,HEREDIA,SAN RAFAEL,SAN RAFAEL,Votos no Legibles,Resultados no Procesados
+56,Junta 4752,HEREDIA,SAN RAFAEL,SAN RAFAEL,179 Votos PPSO,188 Votos PPSO
+57,Junta 4775,HEREDIA,SAN RAFAEL,SAN JOSESITO,Certificación no disponible,158 Votos PPSO
+58,Junta 4808,HEREDIA,SAN RAFAEL,LOS ANGELES,Certificación no disponible,126 Votos PPSO
+59,Junta 4832,HEREDIA,SAN ISIDRO,SAN JOSE,0 Votos PPSO,0 Votos PPSO
+60,Junta 4841,HEREDIA,SAN ISIDRO,SAN JOSE,2 Votos PPSO,1 Votos PPSO
+61,Junta 4913,HEREDIA,FLORES,LLORENTE,193 Votos PPSO,Resultados no Procesados
+62,Junta 4925,HEREDIA,SAN PABLO,SAN PABLO,152 Votos PPSO,Resultados no Procesados
+63,Junta 4926,HEREDIA,SAN PABLO,SAN PABLO,188 Votos PPSO,Resultados no Procesados
+64,Junta 4927,HEREDIA,SAN PABLO,SAN PABLO,Votos no Legibles,Resultados no Procesados
+65,Junta 4930,HEREDIA,SAN PABLO,SAN PABLO,165 Votos PPSO,Resultados no Procesados
+66,Junta 4934,HEREDIA,SAN PABLO,SAN PABLO,162 Votos PPSO,Resultados no Procesados
+67,Junta 4957,HEREDIA,SAN PABLO,RINCON DE SABANILLA,131 Votos PPSO,Resultados no Procesados
+68,Junta 4967,HEREDIA,SAN PABLO,RINCON DE SABANILLA,137 Votos PPSO,Resultados no Procesados
+69,Junta 5018,HEREDIA,SARAPIQUI,LAS HORQUETAS,246 Votos PPSO,251 Votos PPSO
+70,Junta 5020,HEREDIA,SARAPIQUI,LAS HORQUETAS,251 Votos PPSO,Resultados no Procesados
+1,Junta 5075,GUANACASTE,LIBERIA,LIBERIA,Certificación no disponible,164 Votos PPSO
+2,Junta 5094,GUANACASTE,LIBERIA,LIBERIA,173 Votos PPSO,Resultados no Procesados
+3,Junta 5100,GUANACASTE,LIBERIA,LIBERIA,173 Votos PPSO,Resultados no Procesados
+4,Junta 5175,GUANACASTE,NICOYA,NICOYA,192 Votos PPSO,Resultados no Procesados
+5,Junta 5177,GUANACASTE,NICOYA,NICOYA,Certificación no disponible,185 Votos PPSO
+6,Junta 5186,GUANACASTE,NICOYA,NICOYA,138 Votos PPSO,Resultados no Procesados
+7,Junta 5187,GUANACASTE,NICOYA,NICOYA,138 Votos PPSO,Resultados no Procesados
+8,Junta 5190,GUANACASTE,NICOYA,NICOYA,146 Votos PPSO,Resultados no Procesados 
+9,Junta 5223,GUANACASTE,NICOYA,SAN ANTONIO,Certificación no disponible,92 Votos PPSO
+10,Junta 5248,GUANACASTE,NICOYA,NOSARA,Certificación no disponible,264 Votos PPSO
+11,Junta 5277,GUANACASTE,SANTA CRUZ,SANTA CRUZ,Certificación no disponible,197 Votos PPSO
+12,Junta 5291,GUANACASTE,SANTA CRUZ,SANTA CRUZ,171 Votos PPSO,13 Votos PPSO (171 Nueva Republica)
+13,Junta 5295,GUANACASTE,SANTA CRUZ,SANTA CRUZ,Certificación no disponible,Resultados no Procesados
+14,Junta 5309,GUANACASTE,SANTA CRUZ,VEINTISIETE DE ABRIL,Certificación no disponible,144 Votos PPSO
+15,Junta 5336,GUANACASTE,SANTA CRUZ,CARTAGENA,249 Votos PPSO,Resultados no Procesados 
+16,Junta 5339,GUANACASTE,SANTA CRUZ,CARTAGENA,130 Votos PPSO,125 Votos PPSO
+17,Junta 5349,GUANACASTE,SANTA CRUZ,DIRIA,152 Votos PPSO,156 Votos PPSO
+18,Junta 5360,GUANACASTE,SANTA CRUZ,TAMARINDO,Certificación no disponible,Resultados no Procesados
+19,Junta 5366,GUANACASTE,SANTA CRUZ,TAMARINDO,Certificación no disponible,233 Votos PPSO
+20,Junta 5368,GUANACASTE,BAGACES,BAGACES,Certificación no disponible,162 Votos PPSO
+21,Junta 5371,GUANACASTE,BAGACES,BAGACES,Certificación no disponible,156 Votos PPSO
+22,Junta 5399,GUANACASTE,BAGACES,MOGOTE,Certificación no disponible,87 Votos PPSO
+23,Junta 5404,GUANACASTE,CARRILLO,FILADELFIA,184 Votos PPSO,Resultados no Procesados
+24,Junta 5406,GUANACASTE,CARRILLO,FILADELFIA,195 Votos PPSO,Resultados no Procesados
+25,Junta 5407,GUANACASTE,CARRILLO,FILADELFIA,183 Votos PPSO,Resultados no Procesados
+26,Junta 5408,GUANACASTE,CARRILLO,FILADELFIA,104 Votos PPSO,Resultados no Procesados
+27,Junta 5409,GUANACASTE,CARRILLO,FILADELFIA,163 Votos PPSO,Resultados no Procesados
+23,Junta 5410,GUANACASTE,CARRILLO,FILADELFIA,182 Votos PPSO,Resultados no Procesados
+24,Junta 5413,GUANACASTE,CARRILLO,FILADELFIA,35 Votos PPSO,Resultados no Procesados
+25,Junta 5420,GUANACASTE,CARRILLO,FILADELFIA,Sin datos en la Certificación,174 Votos PPSO
+26,Junta 5429,GUANACASTE,CARRILLO,SARDINAL,Certificación no disponible,176 Votos PPSO
+27,Junta 5437,GUANACASTE,CARRILLO,SARDINAL,Certificación no disponible,222 Votos PPSO
+28,Junta 5440,GUANACASTE,CARRILLO,SARDINAL,Certificación no disponible,Resultados no Procesados
+29,Junta 5443,GUANACASTE,CARRILLO,SARDINAL,Certificación no disponible,Resultados no Procesados
+30,Junta 5461,GUANACASTE,CARRILLO,BELEN,105 Votos PPSO,Resultados no Procesados
+31,Junta 5467,GUANACASTE,CAÑAS,CAÑAS,210 Votos PPSO,Resultados no Procesados
+32,Junta 5486,GUANACASTE,CAÑAS,CAÑAS,187 Votos PPSO,Resultados no Procesados
+33,Junta 5512,GUANACASTE,ABANGARES,LAS JUNTAS,Sin datos en la Certificación,0 Votos PPSO
+34,Junta 5539,GUANACASTE,ABANGARES,CORONADO,134 Votos PPSO,137 Votos PPSO
+35,Junta 5590,GUANACASTE,NANDAYURE,CARMONA,192 Votos PPSO,Resultados no Procesados
+36,Junta 5598,GUANACASTE,NANDAYURE,SANTA RITA,Certificación no disponible,117 Votos PPSO
+37,Junta 5632,GUANACASTE,LA CRUZ,LA CRUZ,Certificación no disponible,26 Votos PPSO
+38,Junta 5637,GUANACASTE,LA CRUZ,SANTA CECILIA,Certificación no disponible,Resultados no Procesados
+39,Junta 5640,GUANACASTE,LA CRUZ,SANTA CECILIA,Certificación no disponible,89 Votos PPSO
+40,Junta 5643,GUANACASTE,LA CRUZ,SANTA CECILIA,20 Votos PPSO,Resultados no Procesados
+41,Junta 5645,GUANACASTE,LA CRUZ,SANTA CECILIA,22 Votos PPSO,Resultados no Procesados
+42,Junta 5646,GUANACASTE,LA CRUZ,SANTA CECILIA,Certificación no disponible,36 Votos PPSO
+43,Junta 5651,GUANACASTE,LA CRUZ,LA GARITA,202 Votos PPSO,47 Votos PPSO
+44,Junta 5652,GUANACASTE,LA CRUZ,LA GARITA,10 Votos PPSO,Resultados no Procesados
+45,Junta 5657,GUANACASTE,HOJANCHA,HOJANCHA,173 Votos PPSO,Resultados no Procesados
+46,Junta 5658,GUANACASTE,HOJANCHA,HOJANCHA,199 Votos PPSO,Resultados no Procesados
+47,Junta 5661,GUANACASTE,HOJANCHA,HOJANCHA,196 Votos PPSO,Resultados no Procesados
+48,Junta 5676,GUANACASTE,HOJANCHA,MATAMBU,Certificación no disponible,138 Votos PPSO
+1,Junta 5689,PUNTARENAS,CENTRAL,PUNTARENAS,221 Votos PPSO,Resultados no Procesados
+2,Junta 5714,PUNTARENAS,CENTRAL,LEPANTO,Certificación no disponible,120 Votos PPSO
+3,Junta 5716,PUNTARENAS,CENTRAL,LEPANTO,Certificación no disponible,44 Votos PPSO
+4,Junta 5717,PUNTARENAS,CENTRAL,LEPANTO,Certificación no disponible,54 Votos PPSO
+5,Junta 5725,PUNTARENAS,CENTRAL,LEPANTO,Certificación no disponible,77 Votos PPSO
+6,Junta 5733,PUNTARENAS,CENTRAL,PAQUERA,119 Votos PPSO,Resultados no Procesados
+7,Junta 5734,PUNTARENAS,CENTRAL,PAQUERA,175 Votos PPSO,Resultados no Procesados
+8,Junta 5737,PUNTARENAS,CENTRAL,PAQUERA,185 Votos PPSO,Resultados no Procesados
+9,Junta 5742,PUNTARENAS,CENTRAL,PAQUERA,127 Votos PPSO,Resultados no Procesados
+10,Junta 5768,PUNTARENAS,CENTRAL,BARRANCA,Certificación no disponible,Resultados no Procesados
+11,Junta 5778,PUNTARENAS,CENTRAL,BARRANCA,Certificación no disponible,203 Votos PPSO
+12,Junta 5787,PUNTARENAS,CENTRAL,BARRANCA,212 Votos PPSO,Resultados no Procesados
+13,Junta 5795,PUNTARENAS,CENTRAL,BARRANCA,Certificación no disponible,216 Votos PPSO
+14,Junta 5801,PUNTARENAS,CENTRAL,COBANO,221 Votos PPSO,Resultados no Procesados
+15,Junta 5802,PUNTARENAS,CENTRAL,COBANO,190 Votos PPSO,Resultados no Procesados
+16,Junta 5803,PUNTARENAS,CENTRAL,COBANO,218 Votos PPSO,Resultados no Procesados
+17,Junta 5804,PUNTARENAS,CENTRAL,COBANO,Certificación no disponible,Resultados no Procesados
+18,Junta 5805,PUNTARENAS,CENTRAL,COBANO,Certificación no disponible,Resultados no Procesados
+19,Junta 5806,PUNTARENAS,CENTRAL,COBANO,Certificación no disponible,Resultados no Procesados
+20,Junta 5815,PUNTARENAS,CENTRAL,COBANO,84 Votos PPSO,Resultados no Procesados
+21,Junta 5817,PUNTARENAS,CENTRAL,CHACARITA,247 Votos PPSO,217 Votos PPSO
+22,Junta 5819,PUNTARENAS,CENTRAL,CHACARITA,Certificación no disponible,222 Votos PPSO
+23,Junta 5824,PUNTARENAS,CENTRAL,CHACARITA,Certificación no disponible,208 Votos PPSO
+24,Junta 5829,PUNTARENAS,CENTRAL,CHACARITA,188 Votos PPSO,Resultados no Procesados
+25,Junta 5832,PUNTARENAS,CENTRAL,CHACARITA,181 Votos PPSO,Resultados no Procesados
+26,Junta 5833,PUNTARENAS,CENTRAL,CHACARITA,192 Votos PPSO,Resultados no Procesados
+27,Junta 5834,PUNTARENAS,CENTRAL,CHACARITA,168 Votos PPSO,Resultados no Procesados
+28,Junta 5837,PUNTARENAS,CENTRAL,CHACARITA,196 Votos PPSO,Resultados no Procesados
+29,Junta 5845,PUNTARENAS,CENTRAL,EL ROBLE,Certificación no disponible,214 Votos PPSO
+30,Junta 5848,PUNTARENAS,CENTRAL,EL ROBLE,193 Votos PPSO,Resultados no Procesados
+31,Junta 5852,PUNTARENAS,CENTRAL,EL ROBLE,Certificación no disponible,220 Votos PPSO
+32,Junta 5856,PUNTARENAS,CENTRAL,EL ROBLE,Datos no Coincidentes (Diputados)
+33,Junta 5857,PUNTARENAS,CENTRAL,EL ROBLE,22 Votos PPSO,Resultados no Procesados (198 PUSC) 
+34,Junta 5871,PUNTARENAS,ESPARZA,ESPIRITU SANTO,220 Votos PPSO,13 Votos PPSO (220 Votos PPSD)
+35,Junta 5883,PUNTARENAS,ESPARZA,ESPIRITU SANTO,249 Votos PPSO,Resultados no Procesados
+36,Junta 5891,PUNTARENAS,ESPARZA,ESPIRITU SANTO,253 Votos PPSO,Resultados no Procesados
+37,Junta 5897,PUNTARENAS,ESPARZA,SAN JUAN GRANDE,270 Votos PPSO,Resultados no Procesados
+38,Junta 5898,PUNTARENAS,ESPARZA,SAN JUAN GRANDE,263 Votos PPSO,Resultados no Procesados
+39,Junta 5925,PUNTARENAS,BUENOS AIRES,BUENOS AIRES,Datos no coinciden,269 Votos PPSO
+37,Junta 5929,PUNTARENAS,BUENOS AIRES,BUENOS AIRES,274 Votos PPSO,Resultados no Procesados
+38,Junta 5957,PUNTARENAS,BUENOS AIRES,BUENOS AIRES,193 Votos PPSO,3 Votos PPSO
+39,Junta 5986,PUNTARENAS,BUENOS AIRES,COLINAS,136 Votos PPSO,Resultados no Procesados
+40,Junta 5997,PUNTARENAS,BUENOS AIRES,BIOLLEY,Sin datos en la Certificación,110 Votos PPSO
+41,Junta 6011,PUNTARENAS,MONTES DE ORO,MIRAMAR,Votos no Legibles,Resultados no Procesados
+42,Junta 6036,PUNTARENAS,OSA,PUERTO CORTES,195 Votos PPSO,Resultados no Procesados
+43,Junta 6041,PUNTARENAS,OSA,PUERTO CORTES,225 Votos PPSO,Resultados no Procesados
+44,Junta 6051,PUNTARENAS,OSA,PALMAR,238 Votos PPSO,Resultados no Procesados
+45,Junta 6063,PUNTARENAS,OSA,PALMAR,252 Votos PPSO,Resultados no Procesados
+46,Junta 6073,PUNTARENAS,OSA,SIERPE,24 Votos PPSO,Resultados no Procesados
+47,Junta 6091,PUNTARENAS,OSA,PIEDRAS BLANCAS,4 Votos PPSO,4 Votos PPSO (158 Votos PPSD)
+48,Junta 6111,PUNTARENAS,QUEPOS,QUEPOS,215 Votos PPSO,Resultados no Procesados
+49,Junta 6112,PUNTARENAS,QUEPOS,QUEPOS,203 Votos PPSO,Resultados no Procesados
+50,Junta 6115,PUNTARENAS,QUEPOS,QUEPOS,Certificación no disponible,195 Votos PPSO
+51,Junta 6134,PUNTARENAS,QUEPOS,SAVEGRE,261 Votos PPSO,Resultados no Procesados
+52,Junta 6171,PUNTARENAS,GOLFITO,GUAYCARA,Certificación no disponible,190 Votos PPSO
+53,Junta 6195,PUNTARENAS,GOLFITO,PAVON,154 Votos PPSO,Resultados no Procesados
+54,Junta 6198,PUNTARENAS,GOLFITO,PAVON,Certificación no disponible,2 Votos PPSO
+55,Junta 6199,PUNTARENAS,GOLFITO,PAVON,Certificación no disponible,26 Votos PPSO
+56,Junta 6205,PUNTARENAS,GOLFITO,PAVON,Certificación no disponible,23 Votos PPSO
+57,Junta 6206,PUNTARENAS,GOLFITO,PAVON,Certificación no disponible,27 Votos PPSO
+58,Junta 6220,PUNTARENAS,COTO BRUS,SAN VITO,173 Votos PPSO,0 Votos PPSO
+59,Junta 6230,PUNTARENAS,COTO BRUS,SABALITO,189 Votos PPSO,Resultados no Procesados
+60,Junta 6260,PUNTARENAS,COTO BRUS,AGUA BUENA,274 Votos PPSO,Resultados no Procesados
+61,Junta 6286,PUNTARENAS,PARRITA,PARRITA,161 Votos PPSO,Resultados no Procesados
+62,Junta 6316,PUNTARENAS,PARRITA,PARRITA,0 Votos PPSO,0 Votos PPSO
+63,Junta 6353,PUNTARENAS,CORREDORES,CORREDOR,Certificación no disponible,198 Votos PPSO
+64,Junta 6368,PUNTARENAS,CORREDORES,CANOAS,127 Votos PPSO,0 Votos PPSO (127 Votos PPSD)
+65,Junta 6402,PUNTARENAS,GARABITO,JACO,161 Votos PPSO,4 Votos PPSO (167 Votos PPSD)
+66,Junta 6410,PUNTARENAS,GARABITO,JACO,Certificación no disponible,251 Votos PPSO
+67,Junta 6419,PUNTARENAS,GARABITO,TARCOLES,Certificación no disponible,235 Votos PPSO
+68,Junta 6447,PUNTARENAS,PUERTO JIMENEZ,PUERTO JIMENEZ,Certificación no disponible,189 Votos PPSO
+1,Junta 6478,LIMON,CENTRAL,LIMON,138 Votos PPSO,21 Votos PPSO (138 Votos PPSD)
+2,Junta 6484,LIMON,CENTRAL,LIMON,166 Votos PPSO,Resultados no Procesados
+3,Junta 6504,LIMON,CENTRAL,LIMON,189 Votos PPSO,Resultados no Procesados
+4,Junta 6517,LIMON,CENTRAL,LIMON,Sin datos en la Certificación,0 Votos PPSO
+5,Junta 6522,LIMON,CENTRAL,LIMON,158 Votos PPSO,Resultados no Procesados
+6,Junta 6523,LIMON,CENTRAL,LIMON,156 Votos PPSO,Resultados no Procesados
+7,Junta 6524,LIMON,CENTRAL,LIMON,96 Votos PPSO,176 Votos PPSO
+8,Junta 6530,LIMON,CENTRAL,LIMON,0 Votos PPSO,Resultados no Procesados
+9,Junta 6561,LIMON,CENTRAL,VALLE LA ESTRELLA,11 Votos PPSO,Resultados no Procesados
+10,Junta 6596,LIMON,POCOCI,GUAPILES,206 Votos PPSO,Resultados no Procesados
+11,Junta 6598,LIMON,POCOCI,GUAPILES,256 Votos PPSO,Resultados no Procesados
+12,Junta 6599,LIMON,POCOCI,GUAPILES,Certificación no disponible,Resultados no Procesados
+13,Junta 6600,LIMON,POCOCI,GUAPILES,230 Votos PPSO,Resultados no Procesados
+14,Junta 6601,LIMON,POCOCI,GUAPILES,214 Votos PPSO,Resultados no Procesados
+15,Junta 6603,LIMON,POCOCI,GUAPILES,218 Votos PPSO,Resultados no Procesados
+16,Junta 6604,LIMON,POCOCI,GUAPILES,214 Votos PPSO,Resultados no Procesados
+17,Junta 6606,LIMON,POCOCI,GUAPILES,207 Votos PPSO,Resultados no Procesados
+18,Junta 6607,LIMON,POCOCI,GUAPILES,222 Votos PPSO,Resultados no Procesados
+19,Junta 6608,LIMON,POCOCI,GUAPILES,215 Votos PPSO,Resultados no Procesados
+20,Junta 6609,LIMON,POCOCI,GUAPILES,Certificación no disponible,Resultados no Procesados
+21,Junta 6610,LIMON,POCOCI,GUAPILES,225 Votos PPSO,Resultados no Procesados
+22,Junta 6611,LIMON,POCOCI,GUAPILES,231 Votos PPSO,Resultados no Procesados
+23,Junta 6612,LIMON,POCOCI,GUAPILES,219 Votos PPSO,Resultados no Procesados
+24,Junta 6613,LIMON,POCOCI,GUAPILES,233 Votos PPSO,Resultados no Procesados
+25,Junta 6614,LIMON,POCOCI,GUAPILES,242 Votos PPSO,Resultados no Procesados
+26,Junta 6615,LIMON,POCOCI,GUAPILES,228 Votos PPSO,Resultados no Procesados
+27,Junta 6617,LIMON,POCOCI,GUAPILES,208 Votos PPSO,Resultados no Procesados
+28,Junta 6618,LIMON,POCOCI,GUAPILES,236 Votos PPSO,Resultados no Procesados
+29,Junta 6634,LIMON,POCOCI,GUAPILES,249 Votos PPSO,Resultados no Procesados
+30,Junta 6636,LIMON,POCOCI,GUAPILES,245 Votos PPSO,Resultados no Procesados
+31,Junta 6638,LIMON,POCOCI,GUAPILES,247 Votos PPSO,Resultados no Procesados
+32,Junta 6643,LIMON,POCOCI,GUAPILES,210 Votos PPSO,Resultados no Procesados
+33,Junta 6681,LIMON,POCOCI,RITA,224 Votos PPSO,Resultados no Procesados
+34,Junta 6694,LIMON,POCOCI,RITA,Certificación no disponible,142 Votos PPSO
+35,Junta 6701,LIMON,POCOCI,ROXANA,199 Votos PPSO,Resultados no Procesados
+36,Junta 6722,LIMON,POCOCI,CARIARI,238 Votos PPSO,Resultados no Procesados
+37,Junta 6732,LIMON,POCOCI,CARIARI,256 Votos PPSO,Resultados no Procesados
+38,Junta 6734,LIMON,POCOCI,CARIARI,246 Votos PPSO,Resultados no Procesados
+39,Junta 6737,LIMON,POCOCI,CARIARI,220 Votos PPSO,Resultados no Procesados
+40,Junta 6747,LIMON,POCOCI,CARIARI,261 Votos PPSO,3 Votos PPSO
+41,Junta 6748,LIMON,POCOCI,CARIARI,250 Votos PPSO,205 Votos PPSO
+42,Junta 6754,LIMON,POCOCI,CARIARI,Certificación no disponible,206 Votos PPSO
+43,Junta 6755,LIMON,POCOCI,CARIARI,Certificación no disponible,182 Votos PPSO
+44,Junta 6756,LIMON,POCOCI,CARIARI,Certificación no disponible,172 Votos PPSO
+45,Junta 6757,LIMON,POCOCI,CARIARI,Certificación no disponible,237 Votos PPSO
+46,Junta 6758,LIMON,POCOCI,CARIARI,Certificación no disponible,177 Votos PPSO
+47,Junta 6759,LIMON,POCOCI,CARIARI,Certificación no disponible,202 Votos PPSO
+48,Junta 6760,LIMON,POCOCI,CARIARI,Certificación no disponible,220 Votos PPSO
+49,Junta 6761,LIMON,POCOCI,CARIARI,Certificación no disponible,205 Votos PPSO
+50,Junta 6762,LIMON,POCOCI,CARIARI,Certificación no disponible,239 Votos PPSO
+51,Junta 6763,LIMON,POCOCI,CARIARI,Certificación no disponible,204 Votos PPSO
+52,Junta 6764,LIMON,POCOCI,CARIARI,Certificación no disponible,209 Votos PPSO
+53,Junta 6765,LIMON,POCOCI,CARIARI,Certificación no disponible,234 Votos PPSO
+54,Junta 6766,LIMON,POCOCI,CARIARI,Certificación no disponible,209 Votos PPSO
+55,Junta 6767,LIMON,POCOCI,CARIARI,Certificación no disponible,247 Votos PPSO
+56,Junta 6768,LIMON,POCOCI,CARIARI,Certificación no disponible,221 Votos PPSO
+57,Junta 6769,LIMON,POCOCI,CARIARI,Certificación no disponible,219 Votos PPSO
+58,Junta 6770,LIMON,POCOCI,CARIARI,Certificación no disponible,200 Votos PPSO
+59,Junta 6771,LIMON,POCOCI,CARIARI,Certificación no disponible,212 Votos PPSO
+60,Junta 6772,LIMON,POCOCI,CARIARI,Certificación no disponible,19 Votos PPSO
+61,Junta 6773,LIMON,POCOCI,COLORADO,Certificación no disponible,89 Votos PPSO
+62,Junta 6774,LIMON,POCOCI,COLORADO,Certificación no disponible,114 Votos PPSO
+63,Junta 6776,LIMON,POCOCI,COLORADO,Certificación no disponible,Resultados no Procesados
+64,Junta 6777,LIMON,POCOCI,LA COLONIA,Certificación no disponible,274 Votos PPSO
+65,Junta 6779,LIMON,POCOCI,LA COLONIA,Certificación no disponible,Resultados no Procesados
+66,Junta 6780,LIMON,POCOCI,LA COLONIA,249 Votos PPSO,6 Votos PPSO (249 Votos PPSD)
+67,Junta 6797,LIMON,SIQUIRRES,SIQUIRRES,167 Votos PPSO,Resultados no Procesados
+68,Junta 6825,LIMON,SIQUIRRES,SIQUIRRES,184 Votos PPSO,Resultados no Procesados
+69,Junta 6827,LIMON,SIQUIRRES,SIQUIRRES,185 Votos PPSO,Resultados no Procesados
+70,Junta 6828,LIMON,SIQUIRRES,SIQUIRRES,200 Votos PPSO,Resultados no Procesados
+71,Junta 6868,LIMON,SIQUIRRES,ALEGRIA,Certificación no disponible,Resultados no Procesados
+72,Junta 6870,LIMON,SIQUIRRES,ALEGRIA,Certificación no disponible,219 Votos PPSO
+73,Junta 6871,LIMON,SIQUIRRES,ALEGRIA,Certificación no disponible,220 Votos PPSO
+74,Junta 6880,LIMON,SIQUIRRES,REVENTAZON,79 Votos PPSO,Resultados no Procesados
+75,Junta 6882,LIMON,TALAMANCA,BRATSI,176 Votos PPSO,Resultados no Procesados
+76,Junta 6883,LIMON,TALAMANCA,BRATSI,182 Votos PPSO,Resultados no Procesados
+77,Junta 6890,LIMON,TALAMANCA,BRATSI,126 Votos PPSO,Resultados no Procesados
+78,Junta 6909,LIMON,TALAMANCA,CAHUITA,151 Votos PPSO,112 Votos PPSO
+79,Junta 6930,LIMON,TALAMANCA,TELIRE,107 Votos PPSO,Resultados no Procesados
+80,Junta 6937,LIMON,TALAMANCA,TELIRE,Certificación no disponible,Resultados no Procesados
+81,Junta 6939,LIMON,TALAMANCA,TELIRE,Certificación no disponible,0 Votos PPSO
+82,Junta 6940,LIMON,TALAMANCA,TELIRE,Certificación no disponible,9 Votos PPSO
+83,Junta 6941,LIMON,TALAMANCA,TELIRE,Certificación no disponible,Resultados no Procesados
+84,Junta 6952,LIMON,MATINA,MATINA,20 Votos PPSO,Resultados no Procesados
+85,Junta 6977,LIMON,MATINA,BATAN,14 Votos PPSO,Resultados no Procesados
+86,Junta 6987,LIMON,MATINA,CARRANDI,161 Votos PPSO,Resultados no Procesados
+87,Junta 6989,LIMON,MATINA,CARRANDI,158 Votos PPSO,Resultados no Procesados
+88,Junta 6990,LIMON,MATINA,CARRANDI,131 Votos PPSO,Resultados no Procesados
