@@ -1,4 +1,3 @@
-==================================================
 Realizado por: jaguarcr
 ==================================================
 Redes Sociales:
@@ -29,5 +28,6 @@ En la carpeta "juntas" dejo las imagenes de Juntas con inconsistencias reelevant
 
 Se debe revisar los numeros correspondientes a las boletas, segun la certificación y la junta procesada. 
 Ejemplo: Junta 5925. PUNTARENAS -> BUENOS AIRES -> BUENOS AIRES: La certificación subida por el TSE a la Junta 5925 no corresponde a la junta. Subieron una correspondiente a Bordón, Talamanca. 
+
 
 ==================================================
